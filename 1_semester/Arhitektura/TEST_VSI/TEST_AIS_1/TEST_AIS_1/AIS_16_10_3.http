@@ -1,0 +1,6 @@
+@AIS_16_10_3_HostAddress = http://localhost:5003
+
+GET {{AIS_16_10_3_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

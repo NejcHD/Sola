@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\oneDrive\\OneDrive - Univerza v Mariboru\\Namizje\\2TEST\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFBD5B75-7AC6-4441-B201-0266D0D97C89}|FrontendBlazor\\FrontendBlazor.csproj|c:\\onedrive\\onedrive - univerza v mariboru\\namizje\\2test\\frontendblazor\\pages\\sobe.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFBD5B75-7AC6-4441-B201-0266D0D97C89}|FrontendBlazor\\FrontendBlazor.csproj|solutionrelative:frontendblazor\\pages\\sobe.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571D43AB-A7D1-41CC-BC06-8422FAD8D2B4}|FrontendMAUI\\FrontendMAUI.csproj|c:\\onedrive\\onedrive - univerza v mariboru\\namizje\\2test\\frontendmaui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{571D43AB-A7D1-41CC-BC06-8422FAD8D2B4}|FrontendMAUI\\FrontendMAUI.csproj|solutionrelative:frontendmaui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571D43AB-A7D1-41CC-BC06-8422FAD8D2B4}|FrontendMAUI\\FrontendMAUI.csproj|c:\\onedrive\\onedrive - univerza v mariboru\\namizje\\2test\\frontendmaui\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571D43AB-A7D1-41CC-BC06-8422FAD8D2B4}|FrontendMAUI\\FrontendMAUI.csproj|solutionrelative:frontendmaui\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571D43AB-A7D1-41CC-BC06-8422FAD8D2B4}|FrontendMAUI\\FrontendMAUI.csproj|c:\\onedrive\\onedrive - univerza v mariboru\\namizje\\2test\\frontendmaui\\sobaview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571D43AB-A7D1-41CC-BC06-8422FAD8D2B4}|FrontendMAUI\\FrontendMAUI.csproj|solutionrelative:frontendmaui\\sobaview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571D43AB-A7D1-41CC-BC06-8422FAD8D2B4}|FrontendMAUI\\FrontendMAUI.csproj|c:\\onedrive\\onedrive - univerza v mariboru\\namizje\\2test\\frontendmaui\\sobaview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{571D43AB-A7D1-41CC-BC06-8422FAD8D2B4}|FrontendMAUI\\FrontendMAUI.csproj|solutionrelative:frontendmaui\\sobaview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571D43AB-A7D1-41CC-BC06-8422FAD8D2B4}|FrontendMAUI\\FrontendMAUI.csproj|c:\\onedrive\\onedrive - univerza v mariboru\\namizje\\2test\\frontendmaui\\entitete\\soba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571D43AB-A7D1-41CC-BC06-8422FAD8D2B4}|FrontendMAUI\\FrontendMAUI.csproj|solutionrelative:frontendmaui\\entitete\\soba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sobe.razor",
+              "DocumentMoniker": "C:\\oneDrive\\OneDrive - Univerza v Mariboru\\Namizje\\2TEST\\FrontendBlazor\\Pages\\Sobe.razor",
+              "RelativeDocumentMoniker": "FrontendBlazor\\Pages\\Sobe.razor",
+              "ToolTip": "C:\\oneDrive\\OneDrive - Univerza v Mariboru\\Namizje\\2TEST\\FrontendBlazor\\Pages\\Sobe.razor",
+              "RelativeToolTip": "FrontendBlazor\\Pages\\Sobe.razor",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-22T17:42:53.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SobaView.xaml.cs",
+              "DocumentMoniker": "C:\\oneDrive\\OneDrive - Univerza v Mariboru\\Namizje\\2TEST\\FrontendMAUI\\SobaView.xaml.cs",
+              "RelativeDocumentMoniker": "FrontendMAUI\\SobaView.xaml.cs",
+              "ToolTip": "C:\\oneDrive\\OneDrive - Univerza v Mariboru\\Namizje\\2TEST\\FrontendMAUI\\SobaView.xaml.cs",
+              "RelativeToolTip": "FrontendMAUI\\SobaView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T17:04:03.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SobaView.xaml",
+              "DocumentMoniker": "C:\\oneDrive\\OneDrive - Univerza v Mariboru\\Namizje\\2TEST\\FrontendMAUI\\SobaView.xaml",
+              "RelativeDocumentMoniker": "FrontendMAUI\\SobaView.xaml",
+              "ToolTip": "C:\\oneDrive\\OneDrive - Univerza v Mariboru\\Namizje\\2TEST\\FrontendMAUI\\SobaView.xaml",
+              "RelativeToolTip": "FrontendMAUI\\SobaView.xaml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-22T17:00:56.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\oneDrive\\OneDrive - Univerza v Mariboru\\Namizje\\2TEST\\FrontendMAUI\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "FrontendMAUI\\MainPage.xaml.cs",
+              "ToolTip": "C:\\oneDrive\\OneDrive - Univerza v Mariboru\\Namizje\\2TEST\\FrontendMAUI\\MainPage.xaml.cs",
+              "RelativeToolTip": "FrontendMAUI\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T16:51:01.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Soba.cs",
+              "DocumentMoniker": "C:\\oneDrive\\OneDrive - Univerza v Mariboru\\Namizje\\2TEST\\FrontendMAUI\\Entitete\\Soba.cs",
+              "RelativeDocumentMoniker": "FrontendMAUI\\Entitete\\Soba.cs",
+              "ToolTip": "C:\\oneDrive\\OneDrive - Univerza v Mariboru\\Namizje\\2TEST\\FrontendMAUI\\Entitete\\Soba.cs",
+              "RelativeToolTip": "FrontendMAUI\\Entitete\\Soba.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T16:51:17.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\oneDrive\\OneDrive - Univerza v Mariboru\\Namizje\\2TEST\\FrontendMAUI\\MainPage.xaml",
+              "RelativeDocumentMoniker": "FrontendMAUI\\MainPage.xaml",
+              "ToolTip": "C:\\oneDrive\\OneDrive - Univerza v Mariboru\\Namizje\\2TEST\\FrontendMAUI\\MainPage.xaml",
+              "RelativeToolTip": "FrontendMAUI\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-22T16:51:00.233Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

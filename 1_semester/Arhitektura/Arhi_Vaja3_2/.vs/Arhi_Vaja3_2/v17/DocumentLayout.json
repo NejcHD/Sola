@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\Arhi_Vaja3_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DDB95E-3492-4362-98D4-BD3D14ED54FA}|Arhi_Vaja3_2\\Arhi_Vaja3_2.csproj|c:\\sola\\solaum\\2 letnik\\1 semester\\arhitektura\\arhi_vaja3_2\\arhi_vaja3_2\\models\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5DDB95E-3492-4362-98D4-BD3D14ED54FA}|Arhi_Vaja3_2\\Arhi_Vaja3_2.csproj|solutionrelative:arhi_vaja3_2\\models\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DDB95E-3492-4362-98D4-BD3D14ED54FA}|Arhi_Vaja3_2\\Arhi_Vaja3_2.csproj|c:\\sola\\solaum\\2 letnik\\1 semester\\arhitektura\\arhi_vaja3_2\\arhi_vaja3_2\\models\\knjige.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5DDB95E-3492-4362-98D4-BD3D14ED54FA}|Arhi_Vaja3_2\\Arhi_Vaja3_2.csproj|solutionrelative:arhi_vaja3_2\\models\\knjige.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DDB95E-3492-4362-98D4-BD3D14ED54FA}|Arhi_Vaja3_2\\Arhi_Vaja3_2.csproj|c:\\sola\\solaum\\2 letnik\\1 semester\\arhitektura\\arhi_vaja3_2\\arhi_vaja3_2\\arhi_vaja3_2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F5DDB95E-3492-4362-98D4-BD3D14ED54FA}|Arhi_Vaja3_2\\Arhi_Vaja3_2.csproj|solutionrelative:arhi_vaja3_2\\arhi_vaja3_2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DDB95E-3492-4362-98D4-BD3D14ED54FA}|Arhi_Vaja3_2\\Arhi_Vaja3_2.csproj|c:\\sola\\solaum\\2 letnik\\1 semester\\arhitektura\\arhi_vaja3_2\\arhi_vaja3_2\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F5DDB95E-3492-4362-98D4-BD3D14ED54FA}|Arhi_Vaja3_2\\Arhi_Vaja3_2.csproj|solutionrelative:arhi_vaja3_2\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DDB95E-3492-4362-98D4-BD3D14ED54FA}|Arhi_Vaja3_2\\Arhi_Vaja3_2.csproj|c:\\sola\\solaum\\2 letnik\\1 semester\\arhitektura\\arhi_vaja3_2\\arhi_vaja3_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5DDB95E-3492-4362-98D4-BD3D14ED54FA}|Arhi_Vaja3_2\\Arhi_Vaja3_2.csproj|solutionrelative:arhi_vaja3_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\Arhi_Vaja3_2\\Arhi_Vaja3_2\\Models\\DataContext.cs",
+              "RelativeDocumentMoniker": "Arhi_Vaja3_2\\Models\\DataContext.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\Arhi_Vaja3_2\\Arhi_Vaja3_2\\Models\\DataContext.cs",
+              "RelativeToolTip": "Arhi_Vaja3_2\\Models\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T13:06:10.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\Arhi_Vaja3_2\\Arhi_Vaja3_2\\Program.cs",
+              "RelativeDocumentMoniker": "Arhi_Vaja3_2\\Program.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\Arhi_Vaja3_2\\Arhi_Vaja3_2\\Program.cs",
+              "RelativeToolTip": "Arhi_Vaja3_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T12:55:42.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Knjige.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\Arhi_Vaja3_2\\Arhi_Vaja3_2\\Models\\Knjige.cs",
+              "RelativeDocumentMoniker": "Arhi_Vaja3_2\\Models\\Knjige.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\Arhi_Vaja3_2\\Arhi_Vaja3_2\\Models\\Knjige.cs",
+              "RelativeToolTip": "Arhi_Vaja3_2\\Models\\Knjige.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T12:54:03.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\Arhi_Vaja3_2\\Arhi_Vaja3_2\\Dockerfile",
+              "RelativeDocumentMoniker": "Arhi_Vaja3_2\\Dockerfile",
+              "ToolTip": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\Arhi_Vaja3_2\\Arhi_Vaja3_2\\Dockerfile",
+              "RelativeToolTip": "Arhi_Vaja3_2\\Dockerfile",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-22T12:44:43.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Arhi_Vaja3_2.csproj",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\Arhi_Vaja3_2\\Arhi_Vaja3_2\\Arhi_Vaja3_2.csproj",
+              "RelativeDocumentMoniker": "Arhi_Vaja3_2\\Arhi_Vaja3_2.csproj",
+              "ToolTip": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\Arhi_Vaja3_2\\Arhi_Vaja3_2\\Arhi_Vaja3_2.csproj",
+              "RelativeToolTip": "Arhi_Vaja3_2\\Arhi_Vaja3_2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-22T12:44:26.454Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

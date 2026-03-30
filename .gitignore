@@ -1,0 +1,34 @@
+# --- Podatki in baze ---
+**/*.csv
+*.xlsx
+*.sqlite
+*.log
+
+# --- Prevajanje in izvrtljive datoteke ---
+*/*.exe
+*.dll
+*.so
+**/bin/
+dist/
+build/
+
+# --- Node.js ---
+**/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.env
+.env.local
+
+# --- Operacijski sistemi (smeti) ---
+.DS_Store
+Thumbs.db
+
+# --- IDE / Urejevalniki ---
+.vscode/
+**/.idea/
+*.swp
+
+# --- ASP.NET / Web specifično ---
+**/wwwroot/lib/
+**/obj/

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\sola\\solaUM\\2 letnik\\1 semester\\razvoj in gradnja\\Razvoj2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6426219-3250-4F19-9013-AB663D21EAE8}|Razvoj2\\Razvoj2.csproj|c:\\sola\\solaum\\2 letnik\\1 semester\\razvoj in gradnja\\razvoj2\\razvoj2\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E6426219-3250-4F19-9013-AB663D21EAE8}|Razvoj2\\Razvoj2.csproj|solutionrelative:razvoj2\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6426219-3250-4F19-9013-AB663D21EAE8}|Razvoj2\\Razvoj2.csproj|c:\\sola\\solaum\\2 letnik\\1 semester\\razvoj in gradnja\\razvoj2\\razvoj2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6426219-3250-4F19-9013-AB663D21EAE8}|Razvoj2\\Razvoj2.csproj|solutionrelative:razvoj2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2 letnik\\1 semester\\razvoj in gradnja\\Razvoj2\\Razvoj2\\Program.cs",
+              "RelativeDocumentMoniker": "Razvoj2\\Program.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2 letnik\\1 semester\\razvoj in gradnja\\Razvoj2\\Razvoj2\\Program.cs",
+              "RelativeToolTip": "Razvoj2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T12:06:49.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2 letnik\\1 semester\\razvoj in gradnja\\Razvoj2\\Razvoj2\\Dockerfile",
+              "RelativeDocumentMoniker": "Razvoj2\\Dockerfile",
+              "ToolTip": "C:\\sola\\solaUM\\2 letnik\\1 semester\\razvoj in gradnja\\Razvoj2\\Razvoj2\\Dockerfile",
+              "RelativeToolTip": "Razvoj2\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-25T11:27:29.27Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

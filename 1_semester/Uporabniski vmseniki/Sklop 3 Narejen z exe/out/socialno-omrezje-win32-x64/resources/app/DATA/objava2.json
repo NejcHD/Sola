@@ -1,0 +1,18 @@
+[
+  {
+    "naslov": "Izlet v hribe",
+    "vsebina": "Pohod na triglav",
+    "avtor": "Janez Gore",
+    "vsec": 15,
+    "slikaPot": "DATA/Profil1.jpg",
+    "datum": "2025-06-15T10:30:00"
+  },
+  {
+    "naslov": "Novi recept: Špageti",
+    "vsebina": "Spageti na tajski nacin",
+    "avtor": "Kuharski Mojster",
+    "vsec": 42,
+    "slikaPot": "DATA/Profil2.jpg",
+    "datum": "2025-06-16T18:00:00"
+  }
+]

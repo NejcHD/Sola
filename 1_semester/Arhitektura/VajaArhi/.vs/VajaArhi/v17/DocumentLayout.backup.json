@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\VajaArhi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22C44706-655C-4E7A-B17D-5E4E187EAC87}|VajaArhi\\VajaArhi.csproj|c:\\sola\\solaum\\2 letnik\\1 semester\\arhitektura\\vajaarhi\\vajaarhi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C44706-655C-4E7A-B17D-5E4E187EAC87}|VajaArhi\\VajaArhi.csproj|solutionrelative:vajaarhi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66FA1202-BA08-DBB9-3A02-FE68A82F2420}|..\\ARHIVAJAstreznik\\ARHIVAJAstreznik\\ARHIVAJAstreznik.csproj|c:\\sola\\solaum\\2 letnik\\1 semester\\arhitektura\\arhivajastreznik\\arhivajastreznik\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\ARHIVAJAstreznik\\ARHIVAJAstreznik\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ARHIVAJAstreznik\\ARHIVAJAstreznik\\Program.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\ARHIVAJAstreznik\\ARHIVAJAstreznik\\Program.cs",
+              "RelativeToolTip": "..\\ARHIVAJAstreznik\\ARHIVAJAstreznik\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T14:38:05.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\VajaArhi\\VajaArhi\\Program.cs",
+              "RelativeDocumentMoniker": "VajaArhi\\Program.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\VajaArhi\\VajaArhi\\Program.cs",
+              "RelativeToolTip": "VajaArhi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T12:51:33.628Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

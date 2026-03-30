@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\vajaaaaa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C11ABB3E-56C5-4B04-B06D-ABE7F1F1A4E8}|vajaaaaa\\vajaaaaa.csproj|c:\\sola\\solaum\\2 letnik\\1 semester\\arhitektura\\vajaaaaa\\vajaaaaa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11ABB3E-56C5-4B04-B06D-ABE7F1F1A4E8}|vajaaaaa\\vajaaaaa.csproj|solutionrelative:vajaaaaa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11ABB3E-56C5-4B04-B06D-ABE7F1F1A4E8}|vajaaaaa\\vajaaaaa.csproj|c:\\sola\\solaum\\2 letnik\\1 semester\\arhitektura\\vajaaaaa\\vajaaaaa\\podatki\\podatki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11ABB3E-56C5-4B04-B06D-ABE7F1F1A4E8}|vajaaaaa\\vajaaaaa.csproj|solutionrelative:vajaaaaa\\podatki\\podatki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11ABB3E-56C5-4B04-B06D-ABE7F1F1A4E8}|vajaaaaa\\vajaaaaa.csproj|c:\\sola\\solaum\\2 letnik\\1 semester\\arhitektura\\vajaaaaa\\vajaaaaa\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11ABB3E-56C5-4B04-B06D-ABE7F1F1A4E8}|vajaaaaa\\vajaaaaa.csproj|solutionrelative:vajaaaaa\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\vajaaaaa\\vajaaaaa\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "vajaaaaa\\AppDbContext.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\vajaaaaa\\vajaaaaa\\AppDbContext.cs*",
+              "RelativeToolTip": "vajaaaaa\\AppDbContext.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T16:10:17.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\vajaaaaa\\vajaaaaa\\Program.cs",
+              "RelativeDocumentMoniker": "vajaaaaa\\Program.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\vajaaaaa\\vajaaaaa\\Program.cs",
+              "RelativeToolTip": "vajaaaaa\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAACEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T15:34:13.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Podatki.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\vajaaaaa\\vajaaaaa\\Podatki\\Podatki.cs",
+              "RelativeDocumentMoniker": "vajaaaaa\\Podatki\\Podatki.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\vajaaaaa\\vajaaaaa\\Podatki\\Podatki.cs*",
+              "RelativeToolTip": "vajaaaaa\\Podatki\\Podatki.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T15:32:47.556Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

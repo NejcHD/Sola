@@ -1,0 +1,6 @@
+@Vaja4NalogaTest_HostAddress = http://localhost:5173
+
+GET {{Vaja4NalogaTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

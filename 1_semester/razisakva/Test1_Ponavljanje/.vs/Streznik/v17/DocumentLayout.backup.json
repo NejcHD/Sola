@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\sola\\solaUM\\2_letnik\\1_semester\\razisakva\\Test1_Ponavljanje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7EB8CA9-864A-4A44-A0DF-8C42756685D6}|Backend\\Backend.csproj|c:\\sola\\solaum\\2_letnik\\1_semester\\razisakva\\test1_ponavljanje\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7EB8CA9-864A-4A44-A0DF-8C42756685D6}|Backend\\Backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7EB8CA9-864A-4A44-A0DF-8C42756685D6}|Backend\\Backend.csproj|c:\\sola\\solaum\\2_letnik\\1_semester\\razisakva\\test1_ponavljanje\\backend\\entitete\\sporocilo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7EB8CA9-864A-4A44-A0DF-8C42756685D6}|Backend\\Backend.csproj|solutionrelative:backend\\entitete\\sporocilo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7EB8CA9-864A-4A44-A0DF-8C42756685D6}|Backend\\Backend.csproj|c:\\sola\\solaum\\2_letnik\\1_semester\\razisakva\\test1_ponavljanje\\backend\\entitete\\nabiralnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7EB8CA9-864A-4A44-A0DF-8C42756685D6}|Backend\\Backend.csproj|solutionrelative:backend\\entitete\\nabiralnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7EB8CA9-864A-4A44-A0DF-8C42756685D6}|Backend\\Backend.csproj|c:\\sola\\solaum\\2_letnik\\1_semester\\razisakva\\test1_ponavljanje\\backend\\endpoints\\sporocila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7EB8CA9-864A-4A44-A0DF-8C42756685D6}|Backend\\Backend.csproj|solutionrelative:backend\\endpoints\\sporocila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7EB8CA9-864A-4A44-A0DF-8C42756685D6}|Backend\\Backend.csproj|c:\\sola\\solaum\\2_letnik\\1_semester\\razisakva\\test1_ponavljanje\\backend\\mockdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7EB8CA9-864A-4A44-A0DF-8C42756685D6}|Backend\\Backend.csproj|solutionrelative:backend\\mockdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7EB8CA9-864A-4A44-A0DF-8C42756685D6}|Backend\\Backend.csproj|c:\\sola\\solaum\\2_letnik\\1_semester\\razisakva\\test1_ponavljanje\\backend\\endpoints\\nabiralniki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7EB8CA9-864A-4A44-A0DF-8C42756685D6}|Backend\\Backend.csproj|solutionrelative:backend\\endpoints\\nabiralniki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7EB8CA9-864A-4A44-A0DF-8C42756685D6}|Backend\\Backend.csproj|c:\\sola\\solaum\\2_letnik\\1_semester\\razisakva\\test1_ponavljanje\\backend\\bazacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7EB8CA9-864A-4A44-A0DF-8C42756685D6}|Backend\\Backend.csproj|solutionrelative:backend\\bazacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sporocilo.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\1_semester\\razisakva\\Test1_Ponavljanje\\Backend\\Entitete\\Sporocilo.cs",
+              "RelativeDocumentMoniker": "Backend\\Entitete\\Sporocilo.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\1_semester\\razisakva\\Test1_Ponavljanje\\Backend\\Entitete\\Sporocilo.cs",
+              "RelativeToolTip": "Backend\\Entitete\\Sporocilo.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA3wCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T13:07:27.779Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sporocila.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\1_semester\\razisakva\\Test1_Ponavljanje\\Backend\\Endpoints\\Sporocila.cs",
+              "RelativeDocumentMoniker": "Backend\\Endpoints\\Sporocila.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\1_semester\\razisakva\\Test1_Ponavljanje\\Backend\\Endpoints\\Sporocila.cs",
+              "RelativeToolTip": "Backend\\Endpoints\\Sporocila.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAcwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T13:07:29.718Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Nabiralnik.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\1_semester\\razisakva\\Test1_Ponavljanje\\Backend\\Entitete\\Nabiralnik.cs",
+              "RelativeDocumentMoniker": "Backend\\Entitete\\Nabiralnik.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\1_semester\\razisakva\\Test1_Ponavljanje\\Backend\\Entitete\\Nabiralnik.cs",
+              "RelativeToolTip": "Backend\\Entitete\\Nabiralnik.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T13:07:25.141Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MockData.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\1_semester\\razisakva\\Test1_Ponavljanje\\Backend\\MockData.cs",
+              "RelativeDocumentMoniker": "Backend\\MockData.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\1_semester\\razisakva\\Test1_Ponavljanje\\Backend\\MockData.cs",
+              "RelativeToolTip": "Backend\\MockData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T14:35:46.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\1_semester\\razisakva\\Test1_Ponavljanje\\Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Backend\\Program.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\1_semester\\razisakva\\Test1_Ponavljanje\\Backend\\Program.cs",
+              "RelativeToolTip": "Backend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T14:23:25.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BazaContext.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\1_semester\\razisakva\\Test1_Ponavljanje\\Backend\\BazaContext.cs",
+              "RelativeDocumentMoniker": "Backend\\BazaContext.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\1_semester\\razisakva\\Test1_Ponavljanje\\Backend\\BazaContext.cs",
+              "RelativeToolTip": "Backend\\BazaContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T14:08:13.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Nabiralniki.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\1_semester\\razisakva\\Test1_Ponavljanje\\Backend\\Endpoints\\Nabiralniki.cs",
+              "RelativeDocumentMoniker": "Backend\\Endpoints\\Nabiralniki.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\1_semester\\razisakva\\Test1_Ponavljanje\\Backend\\Endpoints\\Nabiralniki.cs",
+              "RelativeToolTip": "Backend\\Endpoints\\Nabiralniki.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T13:07:37.548Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

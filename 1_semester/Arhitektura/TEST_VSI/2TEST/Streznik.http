@@ -1,0 +1,6 @@
+@Streznik_HostAddress = http://localhost:5067
+
+GET {{Streznik_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

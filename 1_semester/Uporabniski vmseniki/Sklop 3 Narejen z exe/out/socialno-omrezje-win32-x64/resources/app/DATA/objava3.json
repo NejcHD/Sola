@@ -1,0 +1,18 @@
+[
+  {
+    "naslov": "Programiranje v Electronu",
+    "vsec": 8,
+    "vsebina": "To je zelo dolgocasna snov",
+    "avtor": "Programer Luka",
+    "slikaPot": "DATA/Profil3.jpg",
+    "datum": "2025-12-21T12:00:00"
+  },
+  {
+    "naslov": "Zimska dnvei",
+    "vsebina": "5 metrov snega!!!!!",
+    "avtor": "Snežna Kraljica",
+    "vsec": 120,
+    "slikaPot": "DATA/Profil1.jpg",
+    "datum": "2025-12-22T08:45:00"
+  }
+]

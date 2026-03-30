@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\sola\\solaUM\\2_letnik\\1_semester\\Arhitektura\\Dodatna\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{992EE5EA-C762-EAB8-39C9-AB33F26612C5}|Dodatna\\Dodatna.csproj|c:\\sola\\solaum\\2_letnik\\1_semester\\arhitektura\\dodatna\\dodatna\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{992EE5EA-C762-EAB8-39C9-AB33F26612C5}|Dodatna\\Dodatna.csproj|solutionrelative:dodatna\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{992EE5EA-C762-EAB8-39C9-AB33F26612C5}|Dodatna\\Dodatna.csproj|c:\\sola\\solaum\\2_letnik\\1_semester\\arhitektura\\dodatna\\dodatna\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{992EE5EA-C762-EAB8-39C9-AB33F26612C5}|Dodatna\\Dodatna.csproj|solutionrelative:dodatna\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.axaml",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\1_semester\\Arhitektura\\Dodatna\\Dodatna\\MainWindow.axaml",
+              "RelativeDocumentMoniker": "Dodatna\\MainWindow.axaml",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\1_semester\\Arhitektura\\Dodatna\\Dodatna\\MainWindow.axaml",
+              "RelativeToolTip": "Dodatna\\MainWindow.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-17T11:22:22.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.axaml.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\1_semester\\Arhitektura\\Dodatna\\Dodatna\\MainWindow.axaml.cs",
+              "RelativeDocumentMoniker": "Dodatna\\MainWindow.axaml.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\1_semester\\Arhitektura\\Dodatna\\Dodatna\\MainWindow.axaml.cs",
+              "RelativeToolTip": "Dodatna\\MainWindow.axaml.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAADwv3cAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T11:22:20.519Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

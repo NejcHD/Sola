@@ -1,0 +1,46 @@
+﻿:root {
+    --bg-color: #1a1a1a;
+    --text-color: #e0e0e0;
+    --card-color: #2d2d2d;
+    --border-color: #444;
+    --primary-color: #1abc9c;
+    --header-color: #1a5276;
+    --Tema-button: #a8d5f8;
+}
+
+
+body {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    font-family: Arial, sans-serif;
+}
+
+#main {
+    background: var(--bg-color);
+}
+
+#profil {
+    background: var(--card-color);
+    border-color: var(--border-color);
+}
+
+#objave-container {
+    background: var(--card-color);
+}
+
+.objava {
+    background: var(--card-color);
+    border-color: var(--border-color);
+    color: var(--text-color);
+}
+#toggle-theme, #settings-btn. #load-json-btn{
+    background: var(--Tema-button);
+}
+
+.objava:hover {
+    background-color: lightgoldenrodyellow ;
+    transform: translateY(-2px);
+}
+.objava:hover * {
+    color: black ;
+}

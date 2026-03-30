@@ -1,0 +1,31 @@
+﻿@model List<Naloga1_Dinamicna.Models.Potnik>
+
+<div class="container mt-4">
+    <h2 class="text-center mb-4">Seznam potnikov</h2>
+
+    <div class="table-responsive">
+        <table class="table table-hover table-striped custom-table-style">
+            <thead class="thead-dark">
+                <tr>
+                    <th>Id</th>
+                    <th>Ime</th>
+                    <th>Priimek</th>
+                    <th>Datum rojstva</th>
+                    <th>Stanje na računu</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var potnik in Model)
+                {
+                    <tr>
+                        <td>@potnik.Id</td>
+                        <td>@potnik.Ime</td>
+                        <td>@potnik.Priimek</td>
+                        <td>@potnik.DatumRojstva.ToString("dd. MM. yyyy")</td>
+                        <td>@potnik.StanjeRacuna.ToString("C2")</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

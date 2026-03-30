@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Test AIS - vsi 3",
+    "Projects": [
+      {
+        "Path": "Backend\\Backend.csproj",
+        "Action": "StartWithoutDebugging"
+      },
+      {
+        "Path": "FrontendBlazor\\FrontendBlazor.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "FrontendMAUI\\FrontendMAUI.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

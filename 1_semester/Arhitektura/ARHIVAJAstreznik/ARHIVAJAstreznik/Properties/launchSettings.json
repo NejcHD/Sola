@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ARHIVAJAstreznik": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

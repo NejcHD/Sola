@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Sistemi_Odlo\u010Danja\\SistemiOdlocanja_Naloga1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{195E7C87-59F4-4743-95CE-8E243FD7124A}|SistemiOdlocanja_Naloga1\\SistemiOdlocanja_Naloga1.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\sistemi_odlo\u010Danja\\sistemiodlocanja_naloga1\\sistemiodlocanja_naloga1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{195E7C87-59F4-4743-95CE-8E243FD7124A}|SistemiOdlocanja_Naloga1\\SistemiOdlocanja_Naloga1.csproj|solutionrelative:sistemiodlocanja_naloga1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{195E7C87-59F4-4743-95CE-8E243FD7124A}|SistemiOdlocanja_Naloga1\\SistemiOdlocanja_Naloga1.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\sistemi_odlo\u010Danja\\sistemiodlocanja_naloga1\\sistemiodlocanja_naloga1\\podatki.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{195E7C87-59F4-4743-95CE-8E243FD7124A}|SistemiOdlocanja_Naloga1\\SistemiOdlocanja_Naloga1.csproj|solutionrelative:sistemiodlocanja_naloga1\\podatki.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "podatki.csv",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Sistemi_Odlo\u010Danja\\SistemiOdlocanja_Naloga1\\SistemiOdlocanja_Naloga1\\podatki.csv",
+              "RelativeDocumentMoniker": "SistemiOdlocanja_Naloga1\\podatki.csv",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Sistemi_Odlo\u010Danja\\SistemiOdlocanja_Naloga1\\SistemiOdlocanja_Naloga1\\podatki.csv",
+              "RelativeToolTip": "SistemiOdlocanja_Naloga1\\podatki.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-03-16T11:42:15.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Sistemi_Odlo\u010Danja\\SistemiOdlocanja_Naloga1\\SistemiOdlocanja_Naloga1\\Program.cs",
+              "RelativeDocumentMoniker": "SistemiOdlocanja_Naloga1\\Program.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Sistemi_Odlo\u010Danja\\SistemiOdlocanja_Naloga1\\SistemiOdlocanja_Naloga1\\Program.cs",
+              "RelativeToolTip": "SistemiOdlocanja_Naloga1\\Program.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAswLAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T09:45:13.065Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

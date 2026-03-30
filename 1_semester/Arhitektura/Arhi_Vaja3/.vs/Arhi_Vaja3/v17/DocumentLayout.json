@@ -1,0 +1,220 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\Arhi_Vaja3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BA2CEB-6875-46AB-BDCC-28129BB6ABA4}|Arhi_Vaja3\\Arhi_Vaja3.csproj|c:\\sola\\solaum\\2 letnik\\1 semester\\arhitektura\\arhi_vaja3\\arhi_vaja3\\models\\knjigeendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BA2CEB-6875-46AB-BDCC-28129BB6ABA4}|Arhi_Vaja3\\Arhi_Vaja3.csproj|solutionrelative:arhi_vaja3\\models\\knjigeendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BA2CEB-6875-46AB-BDCC-28129BB6ABA4}|Arhi_Vaja3\\Arhi_Vaja3.csproj|c:\\sola\\solaum\\2 letnik\\1 semester\\arhitektura\\arhi_vaja3\\arhi_vaja3\\models\\podatki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BA2CEB-6875-46AB-BDCC-28129BB6ABA4}|Arhi_Vaja3\\Arhi_Vaja3.csproj|solutionrelative:arhi_vaja3\\models\\podatki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BA2CEB-6875-46AB-BDCC-28129BB6ABA4}|Arhi_Vaja3\\Arhi_Vaja3.csproj|c:\\sola\\solaum\\2 letnik\\1 semester\\arhitektura\\arhi_vaja3\\arhi_vaja3\\models\\knjige.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BA2CEB-6875-46AB-BDCC-28129BB6ABA4}|Arhi_Vaja3\\Arhi_Vaja3.csproj|solutionrelative:arhi_vaja3\\models\\knjige.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BA2CEB-6875-46AB-BDCC-28129BB6ABA4}|Arhi_Vaja3\\Arhi_Vaja3.csproj|c:\\sola\\solaum\\2 letnik\\1 semester\\arhitektura\\arhi_vaja3\\arhi_vaja3\\models\\izposoja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BA2CEB-6875-46AB-BDCC-28129BB6ABA4}|Arhi_Vaja3\\Arhi_Vaja3.csproj|solutionrelative:arhi_vaja3\\models\\izposoja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BA2CEB-6875-46AB-BDCC-28129BB6ABA4}|Arhi_Vaja3\\Arhi_Vaja3.csproj|c:\\sola\\solaum\\2 letnik\\1 semester\\arhitektura\\arhi_vaja3\\arhi_vaja3\\models\\pisciendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BA2CEB-6875-46AB-BDCC-28129BB6ABA4}|Arhi_Vaja3\\Arhi_Vaja3.csproj|solutionrelative:arhi_vaja3\\models\\pisciendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BA2CEB-6875-46AB-BDCC-28129BB6ABA4}|Arhi_Vaja3\\Arhi_Vaja3.csproj|c:\\sola\\solaum\\2 letnik\\1 semester\\arhitektura\\arhi_vaja3\\arhi_vaja3\\models\\pisatelj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BA2CEB-6875-46AB-BDCC-28129BB6ABA4}|Arhi_Vaja3\\Arhi_Vaja3.csproj|solutionrelative:arhi_vaja3\\models\\pisatelj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BA2CEB-6875-46AB-BDCC-28129BB6ABA4}|Arhi_Vaja3\\Arhi_Vaja3.csproj|c:\\sola\\solaum\\2 letnik\\1 semester\\arhitektura\\arhi_vaja3\\arhi_vaja3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BA2CEB-6875-46AB-BDCC-28129BB6ABA4}|Arhi_Vaja3\\Arhi_Vaja3.csproj|solutionrelative:arhi_vaja3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BA2CEB-6875-46AB-BDCC-28129BB6ABA4}|Arhi_Vaja3\\Arhi_Vaja3.csproj|c:\\sola\\solaum\\2 letnik\\1 semester\\arhitektura\\arhi_vaja3\\arhi_vaja3\\models\\pisci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BA2CEB-6875-46AB-BDCC-28129BB6ABA4}|Arhi_Vaja3\\Arhi_Vaja3.csproj|solutionrelative:arhi_vaja3\\models\\pisci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BA2CEB-6875-46AB-BDCC-28129BB6ABA4}|Arhi_Vaja3\\Arhi_Vaja3.csproj|c:\\sola\\solaum\\2 letnik\\1 semester\\arhitektura\\arhi_vaja3\\arhi_vaja3\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BA2CEB-6875-46AB-BDCC-28129BB6ABA4}|Arhi_Vaja3\\Arhi_Vaja3.csproj|solutionrelative:arhi_vaja3\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BA2CEB-6875-46AB-BDCC-28129BB6ABA4}|Arhi_Vaja3\\Arhi_Vaja3.csproj|c:\\sola\\solaum\\2 letnik\\1 semester\\arhitektura\\arhi_vaja3\\arhi_vaja3\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BA2CEB-6875-46AB-BDCC-28129BB6ABA4}|Arhi_Vaja3\\Arhi_Vaja3.csproj|solutionrelative:arhi_vaja3\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BA2CEB-6875-46AB-BDCC-28129BB6ABA4}|Arhi_Vaja3\\Arhi_Vaja3.csproj|c:\\sola\\solaum\\2 letnik\\1 semester\\arhitektura\\arhi_vaja3\\arhi_vaja3\\arhi_vaja3.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{B8BA2CEB-6875-46AB-BDCC-28129BB6ABA4}|Arhi_Vaja3\\Arhi_Vaja3.csproj|solutionrelative:arhi_vaja3\\arhi_vaja3.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BA2CEB-6875-46AB-BDCC-28129BB6ABA4}|Arhi_Vaja3\\Arhi_Vaja3.csproj|c:\\sola\\solaum\\2 letnik\\1 semester\\arhitektura\\arhi_vaja3\\arhi_vaja3\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B8BA2CEB-6875-46AB-BDCC-28129BB6ABA4}|Arhi_Vaja3\\Arhi_Vaja3.csproj|solutionrelative:arhi_vaja3\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\Arhi_Vaja3\\Arhi_Vaja3\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Arhi_Vaja3\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\Arhi_Vaja3\\Arhi_Vaja3\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Arhi_Vaja3\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T18:57:17.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Arhi_Vaja3.http",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\Arhi_Vaja3\\Arhi_Vaja3\\Arhi_Vaja3.http",
+              "RelativeDocumentMoniker": "Arhi_Vaja3\\Arhi_Vaja3.http",
+              "ToolTip": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\Arhi_Vaja3\\Arhi_Vaja3\\Arhi_Vaja3.http",
+              "RelativeToolTip": "Arhi_Vaja3\\Arhi_Vaja3.http",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwAIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-10-21T18:57:05.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PisciEndpoints.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\Arhi_Vaja3\\Arhi_Vaja3\\Models\\PisciEndpoints.cs",
+              "RelativeDocumentMoniker": "Arhi_Vaja3\\Models\\PisciEndpoints.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\Arhi_Vaja3\\Arhi_Vaja3\\Models\\PisciEndpoints.cs",
+              "RelativeToolTip": "Arhi_Vaja3\\Models\\PisciEndpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T18:39:44.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pisci.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\Arhi_Vaja3\\Arhi_Vaja3\\Models\\Pisci.cs",
+              "RelativeDocumentMoniker": "Arhi_Vaja3\\Models\\Pisci.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\Arhi_Vaja3\\Arhi_Vaja3\\Models\\Pisci.cs",
+              "RelativeToolTip": "Arhi_Vaja3\\Models\\Pisci.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBEAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T14:36:37.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KnjigeEndpoints.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\Arhi_Vaja3\\Arhi_Vaja3\\Models\\KnjigeEndpoints.cs",
+              "RelativeDocumentMoniker": "Arhi_Vaja3\\Models\\KnjigeEndpoints.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\Arhi_Vaja3\\Arhi_Vaja3\\Models\\KnjigeEndpoints.cs",
+              "RelativeToolTip": "Arhi_Vaja3\\Models\\KnjigeEndpoints.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAQwJUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T14:26:38.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Podatki.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\Arhi_Vaja3\\Arhi_Vaja3\\Models\\Podatki.cs",
+              "RelativeDocumentMoniker": "Arhi_Vaja3\\Models\\Podatki.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\Arhi_Vaja3\\Arhi_Vaja3\\Models\\Podatki.cs",
+              "RelativeToolTip": "Arhi_Vaja3\\Models\\Podatki.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T10:31:48.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Izposoja.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\Arhi_Vaja3\\Arhi_Vaja3\\Models\\Izposoja.cs",
+              "RelativeDocumentMoniker": "Arhi_Vaja3\\Models\\Izposoja.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\Arhi_Vaja3\\Arhi_Vaja3\\Models\\Izposoja.cs",
+              "RelativeToolTip": "Arhi_Vaja3\\Models\\Izposoja.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T10:27:31.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pisatelj.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\Arhi_Vaja3\\Arhi_Vaja3\\Models\\Pisatelj.cs",
+              "RelativeDocumentMoniker": "Arhi_Vaja3\\Models\\Pisatelj.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\Arhi_Vaja3\\Arhi_Vaja3\\Models\\Pisatelj.cs",
+              "RelativeToolTip": "Arhi_Vaja3\\Models\\Pisatelj.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T10:26:24.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Knjige.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\Arhi_Vaja3\\Arhi_Vaja3\\Models\\Knjige.cs",
+              "RelativeDocumentMoniker": "Arhi_Vaja3\\Models\\Knjige.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\Arhi_Vaja3\\Arhi_Vaja3\\Models\\Knjige.cs",
+              "RelativeToolTip": "Arhi_Vaja3\\Models\\Knjige.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T10:24:32.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\Arhi_Vaja3\\Arhi_Vaja3\\Program.cs",
+              "RelativeDocumentMoniker": "Arhi_Vaja3\\Program.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\Arhi_Vaja3\\Arhi_Vaja3\\Program.cs",
+              "RelativeToolTip": "Arhi_Vaja3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T10:23:40.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\Arhi_Vaja3\\Arhi_Vaja3\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Arhi_Vaja3\\WeatherForecast.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\Arhi_Vaja3\\Arhi_Vaja3\\WeatherForecast.cs",
+              "RelativeToolTip": "Arhi_Vaja3\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T18:59:42.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\Arhi_Vaja3\\Arhi_Vaja3\\Dockerfile",
+              "RelativeDocumentMoniker": "Arhi_Vaja3\\Dockerfile",
+              "ToolTip": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\Arhi_Vaja3\\Arhi_Vaja3\\Dockerfile",
+              "RelativeToolTip": "Arhi_Vaja3\\Dockerfile",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-20T21:04:28.283Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

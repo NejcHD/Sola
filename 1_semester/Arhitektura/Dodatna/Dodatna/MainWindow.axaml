@@ -1,0 +1,39 @@
+﻿<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        x:Class="Dodatna.MainWindow"
+        Title="ITOD" Width="450" Height="600"
+        MinHeight="500" MinWidth="400">
+
+    <Grid RowDefinitions="Auto, *, Auto" Margin="20">
+        
+        <StackPanel Grid.Row="0" Spacing="10" Margin="0,0,0,10">
+            <TextBlock Text="Novo opravilo:" FontWeight="Bold"/>
+            <TextBox Name="VnosOpravila" Watermark="Vpiši opis"/>
+            <DatePicker Name="IzbiraDatuma" HorizontalAlignment="Stretch"/>
+            
+            <Button Content="Dodaj opravilo" Click="GumbDodaj_Click" 
+                    HorizontalAlignment="Stretch" Background="Green" Foreground="White"/>
+            
+            <Separator Margin="5"/>
+            
+            <TextBox Name="Iskalnik" Watermark="Išči po seznamu" TextChanged="Iskalnik_TextChanged"/>
+            
+            <ComboBox Name="FilterSort" SelectedIndex="0" HorizontalAlignment="Stretch" 
+                      SelectionChanged="FilterSort_SelectionChanged">
+                <ComboBoxItem>Zadnje dodano</ComboBoxItem>
+                <ComboBoxItem>Po roku zapadlosti</ComboBoxItem>
+            </ComboBox>
+        </StackPanel>
+
+        <ListBox Name="SeznamPrikaz" Grid.Row="1" BorderBrush="Gray" BorderThickness="1"/>
+
+        <StackPanel Grid.Row="2" Spacing="5" Margin="0,10,0,0">
+            <Button Content="Izvozi v Excel" Click="GumbIzvoz_Click" 
+                    HorizontalAlignment="Stretch" Background="Blue" Foreground="White"/>
+            
+            <Button Content="Izbriši označeno opravilo" Click="GumbIzbrisi_Click" 
+                    HorizontalAlignment="Stretch" Background="Red" Foreground="White"/>
+        </StackPanel>
+        
+    </Grid>
+</Window>

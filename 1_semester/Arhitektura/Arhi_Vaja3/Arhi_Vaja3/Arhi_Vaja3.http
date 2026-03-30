@@ -1,0 +1,6 @@
+@Arhi_Vaja3_HostAddress = http://localhost:5021
+
+GET {{Arhi_Vaja3_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,56 @@
+﻿<Window x:Class="VarnostNaloga2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Frekvenčna analiza" Height="650" Width="900">
+
+    <Grid Margin="10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="220"/>
+        </Grid.RowDefinitions>
+
+        <!-- gumbi -->
+        <StackPanel Orientation="Horizontal" Grid.Row="0" Grid.ColumnSpan="2">
+            <Button Content="Naloži Referenco" Click="btnNaloziRef_Click" Margin="5"/>
+            <Button Content="Naloži Šifropis" Click="btnNaloziSif_Click" Margin="5"/>
+            <Button Content="Shrani Dešifrirano" Click="btnShrani_Click" Margin="5"/>
+        </StackPanel>
+
+        <!-- sifrirano -->
+        <GroupBox Header="Šifrirano" Grid.Row="1" Grid.Column="0" Margin="5">
+            <TextBox x:Name="txtSifrirano" AcceptsReturn="True" TextWrapping="Wrap"
+                     VerticalScrollBarVisibility="Auto"/>
+        </GroupBox>
+
+        <!-- dešifrirano -->
+        <GroupBox Header="Dešifrirano" Grid.Row="1" Grid.Column="1" Margin="5">
+            <TextBox x:Name="txtDesifrirano" IsReadOnly="True" Background="#EEE"
+                     AcceptsReturn="True" TextWrapping="Wrap"
+                     VerticalScrollBarVisibility="Auto"/>
+        </GroupBox>
+
+        <!-- ročna zamenjava -->
+        <StackPanel Grid.Row="2" Grid.ColumnSpan="2">
+            <TextBlock Text="Zamenjava črk (A -> B)" FontWeight="Bold"/>
+            <StackPanel Orientation="Horizontal">
+                <TextBox x:Name="txtOd" Width="40" Margin="5"/>
+                <TextBlock Text="->" VerticalAlignment="Center"/>
+                <TextBox x:Name="txtV" Width="40" Margin="5"/>
+                <Button Content="Zamenjaj" Click="btnZamenjaj_Click" Margin="5"/>
+            </StackPanel>
+        </StackPanel>
+
+        <!-- graf -->
+        <GroupBox Header="Frekvenčna porazdelitev" Grid.Row="3" Grid.ColumnSpan="2" Margin="5">
+            <Canvas x:Name="grafCanvas" Background="White"/>
+        </GroupBox>
+
+    </Grid>
+</Window>

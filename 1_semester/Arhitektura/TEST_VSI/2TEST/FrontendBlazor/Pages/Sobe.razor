@@ -1,0 +1,55 @@
+﻿@page "/sobe"
+@inject HttpClient Http
+
+<PageTitle>Sobe</PageTitle>
+
+<h1>Sobe</h1>
+
+<table class="table">
+        <thead>
+            <tr>
+                <th>Številka</th>
+                <th>Tip</th>
+                <th>Cena / noč</th>
+                <th>Na voljo</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var s in sobe)
+            {
+                <tr>
+                    <td>@s.Stevilka</td>
+                    <td>@s.Tip</td>
+                    <td>@s.CenaNaNoc €</td>
+                    <td>@(s.JeNaVoljo ? "Da" : "Ne")</td>
+                    <td>
+                        <NavLink href="/soba/@s.Id">Podrobnosti</NavLink>
+                    </td>
+                
+                </tr>
+            }
+        </tbody>
+   
+</table>
+
+@code {
+    List<Soba>? sobe;
+
+    protected override async Task OnInitializedAsync()
+    {
+        sobe = await Http.GetFromJsonAsync<List<Soba>>("api/sobe");
+    }
+
+    class Soba
+    {
+        public int Id { get; set; }
+        public string Stevilka { get; set; }
+        public string Tip { get; set; }
+        public decimal CenaNaNoc { get; set; }
+        public bool JeNaVoljo { get; set; }
+    }
+    
+}
+
+

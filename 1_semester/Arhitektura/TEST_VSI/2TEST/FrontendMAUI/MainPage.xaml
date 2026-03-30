@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FrontendMAUI.MainPage"
+             x:Name="RootPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,0"
+            Spacing="25">
+            
+            <!-- Seznam sob -->
+            <Label>Seznam sob</Label>
+            <CollectionView ItemsSource="{Binding SeznamSob, Source={x:Reference RootPage}}">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Border Stroke="#C49B33"
+                        StrokeThickness="4"
+                        Background="#FFFFAA"                      
+                        HorizontalOptions="Center"   Margin=" 5"> 
+                            <Grid ColumnDefinitions="Auto,Auto,Auto,Auto" ColumnSpacing="16">
+                            <Label Text="{Binding Stevilka}" />
+                            <Label Grid.Column="1" Text="{Binding Kapaciteta}" />
+                            <Label Grid.Column="2" Text="{Binding CenaNaNoc}" />
+                            <Label Grid.Column="3" Text="{Binding Rezervacije.Count}" />
+                        </Grid>
+                        </Border>
+                    </DataTemplate>
+                    
+                    
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+
+            
+
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vaja2_arhi", "Vaja2_arhi\Vaja2_arhi.csproj", "{0CEE99DD-46CE-4A04-B518-2D0DA45B5BDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vaja2_arhi_odjemalec", "..\Vaja2_arhi_odjemalec\Vaja2_arhi_odjemalec\Vaja2_arhi_odjemalec.csproj", "{E66DAB8C-7972-8112-D4A0-BF428B1F6CCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CEE99DD-46CE-4A04-B518-2D0DA45B5BDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CEE99DD-46CE-4A04-B518-2D0DA45B5BDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CEE99DD-46CE-4A04-B518-2D0DA45B5BDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CEE99DD-46CE-4A04-B518-2D0DA45B5BDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E66DAB8C-7972-8112-D4A0-BF428B1F6CCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E66DAB8C-7972-8112-D4A0-BF428B1F6CCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E66DAB8C-7972-8112-D4A0-BF428B1F6CCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E66DAB8C-7972-8112-D4A0-BF428B1F6CCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF0C128B-12C0-4826-9715-3900CE0924F1}
+	EndGlobalSection
+EndGlobal

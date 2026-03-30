@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\sola\\solaUM\\2 letnik\\1 semester\\razvoj in gradnja\\Razvoj_Nal2_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F688DADB-B94F-4EDF-98FE-6ED7EA06610A}|Razvoj_Nal2_2\\Razvoj_Nal2_2.csproj|c:\\sola\\solaum\\2 letnik\\1 semester\\razvoj in gradnja\\razvoj_nal2_2\\razvoj_nal2_2\\.github\\workflow\\docker-build.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F688DADB-B94F-4EDF-98FE-6ED7EA06610A}|Razvoj_Nal2_2\\Razvoj_Nal2_2.csproj|solutionrelative:razvoj_nal2_2\\.github\\workflow\\docker-build.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F688DADB-B94F-4EDF-98FE-6ED7EA06610A}|Razvoj_Nal2_2\\Razvoj_Nal2_2.csproj|c:\\sola\\solaum\\2 letnik\\1 semester\\razvoj in gradnja\\razvoj_nal2_2\\razvoj_nal2_2\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F688DADB-B94F-4EDF-98FE-6ED7EA06610A}|Razvoj_Nal2_2\\Razvoj_Nal2_2.csproj|solutionrelative:razvoj_nal2_2\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F688DADB-B94F-4EDF-98FE-6ED7EA06610A}|Razvoj_Nal2_2\\Razvoj_Nal2_2.csproj|c:\\sola\\solaum\\2 letnik\\1 semester\\razvoj in gradnja\\razvoj_nal2_2\\razvoj_nal2_2\\razvoj_nal2_2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F688DADB-B94F-4EDF-98FE-6ED7EA06610A}|Razvoj_Nal2_2\\Razvoj_Nal2_2.csproj|solutionrelative:razvoj_nal2_2\\razvoj_nal2_2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "docker-build.yml",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2 letnik\\1 semester\\razvoj in gradnja\\Razvoj_Nal2_2\\Razvoj_Nal2_2\\.github\\workflow\\docker-build.yml",
+              "RelativeDocumentMoniker": "Razvoj_Nal2_2\\.github\\workflow\\docker-build.yml",
+              "ToolTip": "C:\\sola\\solaUM\\2 letnik\\1 semester\\razvoj in gradnja\\Razvoj_Nal2_2\\Razvoj_Nal2_2\\.github\\workflow\\docker-build.yml",
+              "RelativeToolTip": "Razvoj_Nal2_2\\.github\\workflow\\docker-build.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-10-27T09:05:33.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Razvoj_Nal2_2.csproj",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2 letnik\\1 semester\\razvoj in gradnja\\Razvoj_Nal2_2\\Razvoj_Nal2_2\\Razvoj_Nal2_2.csproj",
+              "RelativeDocumentMoniker": "Razvoj_Nal2_2\\Razvoj_Nal2_2.csproj",
+              "ToolTip": "C:\\sola\\solaUM\\2 letnik\\1 semester\\razvoj in gradnja\\Razvoj_Nal2_2\\Razvoj_Nal2_2\\Razvoj_Nal2_2.csproj",
+              "RelativeToolTip": "Razvoj_Nal2_2\\Razvoj_Nal2_2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-27T08:54:29.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2 letnik\\1 semester\\razvoj in gradnja\\Razvoj_Nal2_2\\Razvoj_Nal2_2\\Dockerfile",
+              "RelativeDocumentMoniker": "Razvoj_Nal2_2\\Dockerfile",
+              "ToolTip": "C:\\sola\\solaUM\\2 letnik\\1 semester\\razvoj in gradnja\\Razvoj_Nal2_2\\Razvoj_Nal2_2\\Dockerfile",
+              "RelativeToolTip": "Razvoj_Nal2_2\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-26T14:07:30.526Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

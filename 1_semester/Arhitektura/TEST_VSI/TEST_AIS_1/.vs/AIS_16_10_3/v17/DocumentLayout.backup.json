@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\oneDrive\\OneDrive - Univerza v Mariboru\\Namizje\\TEST_AIS_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA59E3F-7D29-49F5-9493-4FBB374811CC}|AIS_16_10_3.csproj|c:\\onedrive\\onedrive - univerza v mariboru\\namizje\\test_ais_1\\routes\\artikli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFA59E3F-7D29-49F5-9493-4FBB374811CC}|AIS_16_10_3.csproj|solutionrelative:routes\\artikli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA59E3F-7D29-49F5-9493-4FBB374811CC}|AIS_16_10_3.csproj|c:\\onedrive\\onedrive - univerza v mariboru\\namizje\\test_ais_1\\artikel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFA59E3F-7D29-49F5-9493-4FBB374811CC}|AIS_16_10_3.csproj|solutionrelative:artikel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA59E3F-7D29-49F5-9493-4FBB374811CC}|AIS_16_10_3.csproj|c:\\onedrive\\onedrive - univerza v mariboru\\namizje\\test_ais_1\\bazacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFA59E3F-7D29-49F5-9493-4FBB374811CC}|AIS_16_10_3.csproj|solutionrelative:bazacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA59E3F-7D29-49F5-9493-4FBB374811CC}|AIS_16_10_3.csproj|c:\\onedrive\\onedrive - univerza v mariboru\\namizje\\test_ais_1\\kosarica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFA59E3F-7D29-49F5-9493-4FBB374811CC}|AIS_16_10_3.csproj|solutionrelative:kosarica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA59E3F-7D29-49F5-9493-4FBB374811CC}|AIS_16_10_3.csproj|c:\\onedrive\\onedrive - univerza v mariboru\\namizje\\test_ais_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFA59E3F-7D29-49F5-9493-4FBB374811CC}|AIS_16_10_3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA59E3F-7D29-49F5-9493-4FBB374811CC}|AIS_16_10_3.csproj|c:\\onedrive\\onedrive - univerza v mariboru\\namizje\\test_ais_1\\routes\\kosarice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFA59E3F-7D29-49F5-9493-4FBB374811CC}|AIS_16_10_3.csproj|solutionrelative:routes\\kosarice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA59E3F-7D29-49F5-9493-4FBB374811CC}|AIS_16_10_3.csproj|c:\\onedrive\\onedrive - univerza v mariboru\\namizje\\test_ais_1\\migrations\\20260208111311_cleanstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFA59E3F-7D29-49F5-9493-4FBB374811CC}|AIS_16_10_3.csproj|solutionrelative:migrations\\20260208111311_cleanstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA59E3F-7D29-49F5-9493-4FBB374811CC}|AIS_16_10_3.csproj|c:\\onedrive\\onedrive - univerza v mariboru\\namizje\\test_ais_1\\migrations\\bazacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFA59E3F-7D29-49F5-9493-4FBB374811CC}|AIS_16_10_3.csproj|solutionrelative:migrations\\bazacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA59E3F-7D29-49F5-9493-4FBB374811CC}|AIS_16_10_3.csproj|c:\\onedrive\\onedrive - univerza v mariboru\\namizje\\test_ais_1\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{EFA59E3F-7D29-49F5-9493-4FBB374811CC}|AIS_16_10_3.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Artikel.cs",
+              "DocumentMoniker": "C:\\oneDrive\\OneDrive - Univerza v Mariboru\\Namizje\\TEST_AIS_1\\Artikel.cs",
+              "RelativeDocumentMoniker": "Artikel.cs",
+              "ToolTip": "C:\\oneDrive\\OneDrive - Univerza v Mariboru\\Namizje\\TEST_AIS_1\\Artikel.cs",
+              "RelativeToolTip": "Artikel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T15:21:33.254Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Artikli.cs",
+              "DocumentMoniker": "C:\\oneDrive\\OneDrive - Univerza v Mariboru\\Namizje\\TEST_AIS_1\\Routes\\Artikli.cs",
+              "RelativeDocumentMoniker": "Routes\\Artikli.cs",
+              "ToolTip": "C:\\oneDrive\\OneDrive - Univerza v Mariboru\\Namizje\\TEST_AIS_1\\Routes\\Artikli.cs",
+              "RelativeToolTip": "Routes\\Artikli.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwBsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T09:41:11.141Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Kosarice.cs",
+              "DocumentMoniker": "C:\\oneDrive\\OneDrive - Univerza v Mariboru\\Namizje\\TEST_AIS_1\\Routes\\Kosarice.cs",
+              "RelativeDocumentMoniker": "Routes\\Kosarice.cs",
+              "ToolTip": "C:\\oneDrive\\OneDrive - Univerza v Mariboru\\Namizje\\TEST_AIS_1\\Routes\\Kosarice.cs",
+              "RelativeToolTip": "Routes\\Kosarice.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwC0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T10:31:49.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BazaContext.cs",
+              "DocumentMoniker": "C:\\oneDrive\\OneDrive - Univerza v Mariboru\\Namizje\\TEST_AIS_1\\BazaContext.cs",
+              "RelativeDocumentMoniker": "BazaContext.cs",
+              "ToolTip": "C:\\oneDrive\\OneDrive - Univerza v Mariboru\\Namizje\\TEST_AIS_1\\BazaContext.cs",
+              "RelativeToolTip": "BazaContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T13:22:27.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\oneDrive\\OneDrive - Univerza v Mariboru\\Namizje\\TEST_AIS_1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\oneDrive\\OneDrive - Univerza v Mariboru\\Namizje\\TEST_AIS_1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAwAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T15:18:01.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Kosarica.cs",
+              "DocumentMoniker": "C:\\oneDrive\\OneDrive - Univerza v Mariboru\\Namizje\\TEST_AIS_1\\Kosarica.cs",
+              "RelativeDocumentMoniker": "Kosarica.cs",
+              "ToolTip": "C:\\oneDrive\\OneDrive - Univerza v Mariboru\\Namizje\\TEST_AIS_1\\Kosarica.cs",
+              "RelativeToolTip": "Kosarica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T10:33:00.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20260208111311_CleanStart.cs",
+              "DocumentMoniker": "C:\\oneDrive\\OneDrive - Univerza v Mariboru\\Namizje\\TEST_AIS_1\\Migrations\\20260208111311_CleanStart.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260208111311_CleanStart.cs",
+              "ToolTip": "C:\\oneDrive\\OneDrive - Univerza v Mariboru\\Namizje\\TEST_AIS_1\\Migrations\\20260208111311_CleanStart.cs",
+              "RelativeToolTip": "Migrations\\20260208111311_CleanStart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T13:33:49.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BazaContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\oneDrive\\OneDrive - Univerza v Mariboru\\Namizje\\TEST_AIS_1\\Migrations\\BazaContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\BazaContextModelSnapshot.cs",
+              "ToolTip": "C:\\oneDrive\\OneDrive - Univerza v Mariboru\\Namizje\\TEST_AIS_1\\Migrations\\BazaContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\BazaContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T11:22:13.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\oneDrive\\OneDrive - Univerza v Mariboru\\Namizje\\TEST_AIS_1\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\oneDrive\\OneDrive - Univerza v Mariboru\\Namizje\\TEST_AIS_1\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-12-04T13:27:30.466Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

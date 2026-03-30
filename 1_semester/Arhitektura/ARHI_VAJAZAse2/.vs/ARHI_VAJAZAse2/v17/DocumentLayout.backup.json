@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\ARHI_VAJAZAse2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A3B4FD-A0D9-4A1C-B522-ED8F7C4D0FEC}|ARHI_VAJAZAse2\\ARHI_VAJAZAse2.csproj|c:\\sola\\solaum\\2 letnik\\1 semester\\arhitektura\\arhi_vajazase2\\arhi_vajazase2\\dtos\\createauthordt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A3B4FD-A0D9-4A1C-B522-ED8F7C4D0FEC}|ARHI_VAJAZAse2\\ARHI_VAJAZAse2.csproj|solutionrelative:arhi_vajazase2\\dtos\\createauthordt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A3B4FD-A0D9-4A1C-B522-ED8F7C4D0FEC}|ARHI_VAJAZAse2\\ARHI_VAJAZAse2.csproj|c:\\sola\\solaum\\2 letnik\\1 semester\\arhitektura\\arhi_vajazase2\\arhi_vajazase2\\data\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A3B4FD-A0D9-4A1C-B522-ED8F7C4D0FEC}|ARHI_VAJAZAse2\\ARHI_VAJAZAse2.csproj|solutionrelative:arhi_vajazase2\\data\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A3B4FD-A0D9-4A1C-B522-ED8F7C4D0FEC}|ARHI_VAJAZAse2\\ARHI_VAJAZAse2.csproj|c:\\sola\\solaum\\2 letnik\\1 semester\\arhitektura\\arhi_vajazase2\\arhi_vajazase2\\dtos\\createrentaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A3B4FD-A0D9-4A1C-B522-ED8F7C4D0FEC}|ARHI_VAJAZAse2\\ARHI_VAJAZAse2.csproj|solutionrelative:arhi_vajazase2\\dtos\\createrentaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A3B4FD-A0D9-4A1C-B522-ED8F7C4D0FEC}|ARHI_VAJAZAse2\\ARHI_VAJAZAse2.csproj|c:\\sola\\solaum\\2 letnik\\1 semester\\arhitektura\\arhi_vajazase2\\arhi_vajazase2\\modeli\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A3B4FD-A0D9-4A1C-B522-ED8F7C4D0FEC}|ARHI_VAJAZAse2\\ARHI_VAJAZAse2.csproj|solutionrelative:arhi_vajazase2\\modeli\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A3B4FD-A0D9-4A1C-B522-ED8F7C4D0FEC}|ARHI_VAJAZAse2\\ARHI_VAJAZAse2.csproj|c:\\sola\\solaum\\2 letnik\\1 semester\\arhitektura\\arhi_vajazase2\\arhi_vajazase2\\dtos\\createbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A3B4FD-A0D9-4A1C-B522-ED8F7C4D0FEC}|ARHI_VAJAZAse2\\ARHI_VAJAZAse2.csproj|solutionrelative:arhi_vajazase2\\dtos\\createbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A3B4FD-A0D9-4A1C-B522-ED8F7C4D0FEC}|ARHI_VAJAZAse2\\ARHI_VAJAZAse2.csproj|c:\\sola\\solaum\\2 letnik\\1 semester\\arhitektura\\arhi_vajazase2\\arhi_vajazase2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A3B4FD-A0D9-4A1C-B522-ED8F7C4D0FEC}|ARHI_VAJAZAse2\\ARHI_VAJAZAse2.csproj|solutionrelative:arhi_vajazase2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A3B4FD-A0D9-4A1C-B522-ED8F7C4D0FEC}|ARHI_VAJAZAse2\\ARHI_VAJAZAse2.csproj|c:\\sola\\solaum\\2 letnik\\1 semester\\arhitektura\\arhi_vajazase2\\arhi_vajazase2\\dtos\\updatebookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A3B4FD-A0D9-4A1C-B522-ED8F7C4D0FEC}|ARHI_VAJAZAse2\\ARHI_VAJAZAse2.csproj|solutionrelative:arhi_vajazase2\\dtos\\updatebookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A3B4FD-A0D9-4A1C-B522-ED8F7C4D0FEC}|ARHI_VAJAZAse2\\ARHI_VAJAZAse2.csproj|c:\\sola\\solaum\\2 letnik\\1 semester\\arhitektura\\arhi_vajazase2\\arhi_vajazase2\\modeli\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A3B4FD-A0D9-4A1C-B522-ED8F7C4D0FEC}|ARHI_VAJAZAse2\\ARHI_VAJAZAse2.csproj|solutionrelative:arhi_vajazase2\\modeli\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A3B4FD-A0D9-4A1C-B522-ED8F7C4D0FEC}|ARHI_VAJAZAse2\\ARHI_VAJAZAse2.csproj|c:\\sola\\solaum\\2 letnik\\1 semester\\arhitektura\\arhi_vajazase2\\arhi_vajazase2\\modeli\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A3B4FD-A0D9-4A1C-B522-ED8F7C4D0FEC}|ARHI_VAJAZAse2\\ARHI_VAJAZAse2.csproj|solutionrelative:arhi_vajazase2\\modeli\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateBookDto.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\ARHI_VAJAZAse2\\ARHI_VAJAZAse2\\DTOs\\UpdateBookDto.cs",
+              "RelativeDocumentMoniker": "ARHI_VAJAZAse2\\DTOs\\UpdateBookDto.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\ARHI_VAJAZAse2\\ARHI_VAJAZAse2\\DTOs\\UpdateBookDto.cs",
+              "RelativeToolTip": "ARHI_VAJAZAse2\\DTOs\\UpdateBookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T21:16:55.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateRentalDto.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\ARHI_VAJAZAse2\\ARHI_VAJAZAse2\\DTOs\\CreateRentalDto.cs",
+              "RelativeDocumentMoniker": "ARHI_VAJAZAse2\\DTOs\\CreateRentalDto.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\ARHI_VAJAZAse2\\ARHI_VAJAZAse2\\DTOs\\CreateRentalDto.cs",
+              "RelativeToolTip": "ARHI_VAJAZAse2\\DTOs\\CreateRentalDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T16:26:33.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateBookDto.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\ARHI_VAJAZAse2\\ARHI_VAJAZAse2\\DTOs\\CreateBookDto.cs",
+              "RelativeDocumentMoniker": "ARHI_VAJAZAse2\\DTOs\\CreateBookDto.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\ARHI_VAJAZAse2\\ARHI_VAJAZAse2\\DTOs\\CreateBookDto.cs",
+              "RelativeToolTip": "ARHI_VAJAZAse2\\DTOs\\CreateBookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T16:24:34.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateAuthorDt.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\ARHI_VAJAZAse2\\ARHI_VAJAZAse2\\DTOs\\CreateAuthorDt.cs",
+              "RelativeDocumentMoniker": "ARHI_VAJAZAse2\\DTOs\\CreateAuthorDt.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\ARHI_VAJAZAse2\\ARHI_VAJAZAse2\\DTOs\\CreateAuthorDt.cs",
+              "RelativeToolTip": "ARHI_VAJAZAse2\\DTOs\\CreateAuthorDt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T16:23:00.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibraryContext.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\ARHI_VAJAZAse2\\ARHI_VAJAZAse2\\Data\\LibraryContext.cs",
+              "RelativeDocumentMoniker": "ARHI_VAJAZAse2\\Data\\LibraryContext.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\ARHI_VAJAZAse2\\ARHI_VAJAZAse2\\Data\\LibraryContext.cs",
+              "RelativeToolTip": "ARHI_VAJAZAse2\\Data\\LibraryContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T12:44:48.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Rental.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\ARHI_VAJAZAse2\\ARHI_VAJAZAse2\\Modeli\\Rental.cs",
+              "RelativeDocumentMoniker": "ARHI_VAJAZAse2\\Modeli\\Rental.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\ARHI_VAJAZAse2\\ARHI_VAJAZAse2\\Modeli\\Rental.cs",
+              "RelativeToolTip": "ARHI_VAJAZAse2\\Modeli\\Rental.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T17:31:41.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\ARHI_VAJAZAse2\\ARHI_VAJAZAse2\\Modeli\\Author.cs",
+              "RelativeDocumentMoniker": "ARHI_VAJAZAse2\\Modeli\\Author.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\ARHI_VAJAZAse2\\ARHI_VAJAZAse2\\Modeli\\Author.cs",
+              "RelativeToolTip": "ARHI_VAJAZAse2\\Modeli\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T17:30:34.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\ARHI_VAJAZAse2\\ARHI_VAJAZAse2\\Modeli\\Book.cs",
+              "RelativeDocumentMoniker": "ARHI_VAJAZAse2\\Modeli\\Book.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\ARHI_VAJAZAse2\\ARHI_VAJAZAse2\\Modeli\\Book.cs",
+              "RelativeToolTip": "ARHI_VAJAZAse2\\Modeli\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T17:28:48.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\ARHI_VAJAZAse2\\ARHI_VAJAZAse2\\Program.cs",
+              "RelativeDocumentMoniker": "ARHI_VAJAZAse2\\Program.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\ARHI_VAJAZAse2\\ARHI_VAJAZAse2\\Program.cs",
+              "RelativeToolTip": "ARHI_VAJAZAse2\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T17:26:36.686Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

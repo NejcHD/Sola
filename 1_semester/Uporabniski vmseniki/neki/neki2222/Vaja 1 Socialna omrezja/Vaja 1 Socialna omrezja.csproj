@@ -1,0 +1,38 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <RootNamespace>Vaja_1_Socialna_omrezja</RootNamespace>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\adasdasdasdas.jpg" />
+    <None Remove="Images\comment.png" />
+    <None Remove="Images\download.jpg" />
+    <None Remove="Images\email.png" />
+    <None Remove="Images\likeB.png" />
+    <None Remove="Images\phone.png" />
+    <None Remove="Images\profile.jpg" />
+    <None Remove="Images\slika2.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Speech" Version="10.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\adasdasdasdas.jpg" />
+    <Resource Include="Images\comment.png" />
+    <Resource Include="Images\download.jpg" />
+    <Resource Include="Images\email.png" />
+    <Resource Include="Images\likeB.png" />
+    <Resource Include="Images\phone.png" />
+    <Resource Include="Images\profile.jpg" />
+    <Resource Include="Images\slika2.jpg" />
+  </ItemGroup>
+
+</Project>

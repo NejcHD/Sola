@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\AAA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75ACAD21-943A-4134-8C94-6EA89033FABE}|AAA\\AAA.csproj|c:\\sola\\solaum\\2 letnik\\1 semester\\arhitektura\\aaa\\aaa\\stundetuendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75ACAD21-943A-4134-8C94-6EA89033FABE}|AAA\\AAA.csproj|solutionrelative:aaa\\stundetuendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75ACAD21-943A-4134-8C94-6EA89033FABE}|AAA\\AAA.csproj|c:\\sola\\solaum\\2 letnik\\1 semester\\arhitektura\\aaa\\aaa\\podatki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75ACAD21-943A-4134-8C94-6EA89033FABE}|AAA\\AAA.csproj|solutionrelative:aaa\\podatki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75ACAD21-943A-4134-8C94-6EA89033FABE}|AAA\\AAA.csproj|c:\\sola\\solaum\\2 letnik\\1 semester\\arhitektura\\aaa\\aaa\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75ACAD21-943A-4134-8C94-6EA89033FABE}|AAA\\AAA.csproj|solutionrelative:aaa\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75ACAD21-943A-4134-8C94-6EA89033FABE}|AAA\\AAA.csproj|c:\\sola\\solaum\\2 letnik\\1 semester\\arhitektura\\aaa\\aaa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75ACAD21-943A-4134-8C94-6EA89033FABE}|AAA\\AAA.csproj|solutionrelative:aaa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\AAA\\AAA\\Program.cs",
+              "RelativeDocumentMoniker": "AAA\\Program.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\AAA\\AAA\\Program.cs",
+              "RelativeToolTip": "AAA\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T19:42:25.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Podatki.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\AAA\\AAA\\Podatki.cs",
+              "RelativeDocumentMoniker": "AAA\\Podatki.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\AAA\\AAA\\Podatki.cs",
+              "RelativeToolTip": "AAA\\Podatki.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T19:34:19.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StundetuEndPoint.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\AAA\\AAA\\StundetuEndPoint.cs",
+              "RelativeDocumentMoniker": "AAA\\StundetuEndPoint.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\AAA\\AAA\\StundetuEndPoint.cs",
+              "RelativeToolTip": "AAA\\StundetuEndPoint.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAQwFYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T19:33:18.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\AAA\\AAA\\Student.cs",
+              "RelativeDocumentMoniker": "AAA\\Student.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\AAA\\AAA\\Student.cs",
+              "RelativeToolTip": "AAA\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T19:32:40.834Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

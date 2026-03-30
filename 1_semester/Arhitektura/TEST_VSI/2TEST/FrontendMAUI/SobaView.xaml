@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentView xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FrontendMAUI.SobaView">
+    
+    
+    
+    <Frame Margin="10" Padding="15" CornerRadius="10" x:Name="MainFrame">
+        <VisualStateManager.VisualStateGroups>
+            <VisualStateGroupList>
+                <VisualStateGroup x:Name="CommonStates">
+                    <VisualState x:Name="Normal">
+                        <VisualState.Setters>
+                            <Setter Property="BackgroundColor" Value="White" />
+                        </VisualState.Setters>
+                    </VisualState>
+                    <VisualState x:Name="PointerOver">
+                        <VisualState.Setters>
+                            <Setter Property="BackgroundColor" Value="LightGray" />
+                        </VisualState.Setters>
+                    </VisualState>
+                </VisualStateGroup>
+            </VisualStateGroupList>
+        </VisualStateManager.VisualStateGroups>
+        
+        <VerticalStackLayout Spacing="5">
+            <Label Text="{Binding Stevilka, StringFormat='Soba št.: {0}'}" 
+                   FontAttributes="Bold" FontSize="18" />
+            <HorizontalStackLayout Spacing="20">
+                <Label Text="{Binding Kapaciteta, StringFormat='Kapaciteta: {0}'}" />
+                <Label Text="{Binding CenaNaNoc, StringFormat='Cena: {0}€'}" 
+                       TextColor="Green" />
+            </HorizontalStackLayout>
+            <Label Text="{Binding Rezervacije.Count, StringFormat='Število rezervacij: {0}'}" 
+                   FontSize="Caption" TextColor="Gray" />
+        </VerticalStackLayout>
+        
+    </Frame>
+</ContentView>

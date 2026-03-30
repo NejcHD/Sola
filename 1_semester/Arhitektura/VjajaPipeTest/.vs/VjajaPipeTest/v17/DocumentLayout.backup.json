@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\VjajaPipeTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0576B05-C669-49CE-BC50-53BD07AFA09F}|VjajaPipeTest\\VjajaPipeTest.csproj|c:\\sola\\solaum\\2 letnik\\1 semester\\arhitektura\\vjajapipetest\\vjajapipetest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0576B05-C669-49CE-BC50-53BD07AFA09F}|VjajaPipeTest\\VjajaPipeTest.csproj|solutionrelative:vjajapipetest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E84B5A-9169-4E64-A6FC-8FA5AE34FEBA}|VajaPipeStreznikTest\\VajaPipeStreznikTest.csproj|c:\\sola\\solaum\\2 letnik\\1 semester\\arhitektura\\vjajapipetest\\vajapipestrezniktest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E84B5A-9169-4E64-A6FC-8FA5AE34FEBA}|VajaPipeStreznikTest\\VajaPipeStreznikTest.csproj|solutionrelative:vajapipestrezniktest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\VjajaPipeTest\\VajaPipeStreznikTest\\Program.cs",
+              "RelativeDocumentMoniker": "VajaPipeStreznikTest\\Program.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\VjajaPipeTest\\VajaPipeStreznikTest\\Program.cs",
+              "RelativeToolTip": "VajaPipeStreznikTest\\Program.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAQwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T09:29:55.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\VjajaPipeTest\\VjajaPipeTest\\Program.cs",
+              "RelativeDocumentMoniker": "VjajaPipeTest\\Program.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\VjajaPipeTest\\VjajaPipeTest\\Program.cs",
+              "RelativeToolTip": "VjajaPipeTest\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T09:20:12.702Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

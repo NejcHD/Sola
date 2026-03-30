@@ -1,0 +1,43 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div id="accordion">
+    <h3>O nas</h3>
+    <div>
+        <p>Smo slovenska firma za polete po celem svetu.</p>
+    </div>
+
+    <h3>Poleti</h3>
+    <div>
+        <ul>
+            <li>Ljubljana - London</li>
+            <li>Ljubljana - Prag</li>
+            <li>Ljubljana - New York</li>
+            <li>Ljubljana - Melbourn</li>
+            <li>Ljubljana - Viena</li>
+        </ul>
+    </div>
+
+
+    <h3>Cena</h3>
+    <div>
+        <ul>
+            <li>1000$</li>
+            <li>3000$</li>
+            <li>9900$</li>
+            <li>1300$</li>
+            <li>1500$</li>
+        </ul>
+    </div>
+
+</div>
+
+
+@section Scripts {
+    <script>
+        $(function () {
+            $("#accordion").accordion();
+        });
+    </script>
+}

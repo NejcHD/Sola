@@ -1,0 +1,117 @@
+﻿<Window x:Class="Vaja.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Vaja"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40"/>   <!-- 2X3  --> <!-- MENU  -->
+            <RowDefinition Height="*"/>  <!-- telo  -->
+            <RowDefinition Height="auto"/> <!-- telo  -->  
+        </Grid.RowDefinitions>
+    
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="auto"/> <!-- profil  -->
+            <ColumnDefinition Width="*"/> <!-- vsebina  -->
+            <ColumnDefinition Width="auto"/> <!-- Prijatelji  -->
+        </Grid.ColumnDefinitions>
+
+       
+
+        <Menu  Grid.Row="0" >
+            <MenuItem Header="Menu" Margin="10">
+                <MenuItem Header="Izhod" Click="Izhod_Program"></MenuItem>
+            </MenuItem>
+            <MenuItem Header="Datoteka" Margin="10"></MenuItem>
+            <MenuItem Header="Datoteka" Margin="10"></MenuItem>
+            
+        </Menu>
+
+        <StackPanel Grid.Row="0" Grid.Column="1" Orientation="Horizontal">
+            <Button Content="Dodaj številko" Command="{Binding DodajŠtevilkoCommand}"/>
+            <ListBox ItemsSource="{Binding Številke}"/>
+                        
+            <Button Content="Odstrani številko" Command="{Binding OdstraniŠtevilkoCommand}"/>
+
+            <ListBox ItemsSource="{Binding Številke}" 
+         SelectedValue="{Binding IzbranaStevilka}"/>
+            <Button Content="Podvoji izbrano" Command="{Binding PodvojiCommand}"/>
+            
+        </StackPanel>
+
+        <!-- Levi PRofil  -->
+        <Border Grid.Row="1" Grid.Column="0" BorderThickness="1" BorderBrush="DarkBlue">
+            <StackPanel Orientation="Vertical">
+                <TextBlock HorizontalAlignment="Center" Margin=" 20" Text="{Binding ImeUporabnika}"/>
+                <Image Source="/Slike/dsadasdasdasdasdasdas.png" Height="150" Margin=" 10"/>
+
+                <TextBlock HorizontalAlignment="Center" Margin="10" Text="{Binding Bio}"/>
+
+
+               
+
+            </StackPanel>
+            
+            
+        </Border>
+
+        
+        <TabControl Grid.Row="1" Grid.Column="1">
+            
+            <TabItem Header="Objave">
+                <ListBox ItemsSource="{Binding Objave}" Background="Transparent"  BorderThickness="0" Margin="27,0,-27,0" >
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <Border x:Name="Border" Background="White" Padding="10" Margin="5" CornerRadius="6">
+                            <StackPanel Margin="5" Orientation="Vertical" >
+                                <TextBlock Text="{Binding Ime}" Margin="5" FontWeight="Bold"/>
+                                <TextBlock Text="{Binding Priimek}" Margin="5" FontWeight="Bold"/>
+                                <TextBlock Text="{Binding Opis}"  Margin="0,5,0,0"/>
+                                <TextBlock Text="{Binding Datum}" Margin="5" Foreground="Gray"/>
+                                <TextBlock Text="{Binding Starost}" Margin="5" Foreground="Gray"/>
+                            </StackPanel>
+                            </Border>
+
+                            <DataTemplate.Triggers>
+                                <DataTrigger Binding="{Binding IsSelected, RelativeSource={RelativeSource AncestorType=ListBoxItem}}" Value="True" >
+                                    <Setter TargetName="Border" Property="Background" Value="LightBlue"/>
+                                </DataTrigger>
+                            </DataTemplate.Triggers>
+                                
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                    
+                </ListBox>
+
+
+
+            </TabItem>
+
+            <!-- Srtedina Profilo zavihek  -->
+            <TabItem Header="Profil">
+                <StackPanel Orientation="Vertical">
+                    <TextBox HorizontalAlignment="Center" Margin=" 20" Text="{Binding ImeUporabnika, UpdateSourceTrigger=PropertyChanged}"/>
+
+                    <Image Source="/Slike/dsadasdasdasdasdasdas.png" Height="100" Margin=" 10"/>
+
+                    <TextBox HorizontalAlignment="Center" Margin="10" Text="{Binding Bio, UpdateSourceTrigger=PropertyChanged}"/>
+
+                </StackPanel>
+            </TabItem>
+        </TabControl>
+        
+        
+        
+        
+        
+        
+        
+
+        <TextBlock Grid.Row="2"  Text="{Binding ImeUporabnika}"/>
+
+    </Grid>
+</Window>

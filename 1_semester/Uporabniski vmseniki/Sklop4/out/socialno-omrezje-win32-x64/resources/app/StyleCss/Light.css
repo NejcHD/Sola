@@ -1,0 +1,38 @@
+/* light.css - SVETLA TEMA */
+:root {
+    --bg-color: #f5f5f5;
+    --text-color: #333;
+    --card-color: white;
+    --border-color: #ddd;
+    --primary-color: #3498db;
+    --header-color: #99C0FB;
+    --Tema-button: #3080bc;
+}
+
+body {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    font-family: Arial, sans-serif;
+}
+
+#main {
+    background: var(--bg-color);
+}
+
+#profil {
+    background: var(--card-color);
+    border-color: var(--border-color);
+}
+
+#objave-container {
+    background: var(--card-color);
+}
+
+.objava {
+    background: var(--card-color);
+    border-color: var(--border-color);
+    color: var(--text-color);
+}
+#toggle-theme, #settings-btn, #load-json-btn{
+    background: var(--Tema-button);
+}

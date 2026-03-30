@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Vaja2_arhi\\Vaja2_arhi.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\Vaja2_arhi_odjemalec\\Vaja2_arhi_odjemalec\\Vaja2_arhi_odjemalec.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

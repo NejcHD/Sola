@@ -1,0 +1,68 @@
+﻿@page "/Soba1/{id:int}"
+@inject HttpClient Http
+@inject NavigationManager Nav
+
+<h3>Podrobnosti sobe</h3>
+
+@if (soba == null)
+{
+    <p>Nalaganje...</p>
+}
+else
+{
+    <p><b>Številka:</b> @soba.Stevilka</p>
+    <p><b>Tip:</b> @soba.Tip</p>
+    <p><b>Cena:</b> @soba.CenaNaNoc €</p>
+    <p><b>Na voljo:</b> @(soba.JeNaVoljo ? "Da" : "Ne")</p>
+
+    <br />
+
+    <button class="btn btn-success" @onclick="DodajRezervacijo">
+        Dodaj rezervacijo
+    </button>
+
+    <button class="btn btn-danger" @onclick="BrisiRezervacijo">
+        Briši rezervacijo
+    </button>
+
+    <br />
+    <br />
+
+    <button class="btn btn-secondary" @onclick="Nazaj">
+        Nazaj
+    </button>
+}
+
+@code {
+    [Parameter] public int id { get; set; }
+    Soba? soba;
+
+    protected override async Task OnInitializedAsync()
+    {
+        soba = await Http.GetFromJsonAsync<Soba>($"api/sobe/{id}");
+    }
+
+    async Task DodajRezervacijo()
+    {
+        await Http.PostAsync($"api/rezervacije/{id}", null);
+    }
+
+    async Task BrisiRezervacijo()
+    {
+        await Http.DeleteAsync($"api/rezervacije/{id}");
+    }
+
+    void Nazaj()
+    {
+        Nav.NavigateTo("/sobe");
+    }
+
+    class Soba
+    {
+        public int Id { get; set; }
+        public string Stevilka { get; set; }
+        public string Tip { get; set; }
+        public decimal CenaNaNoc { get; set; }
+        public bool JeNaVoljo { get; set; }
+    }
+}

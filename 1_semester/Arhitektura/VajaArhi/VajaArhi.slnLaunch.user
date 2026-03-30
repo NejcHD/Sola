@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "VajaArhi\\VajaArhi.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\ARHIVAJAstreznik\\ARHIVAJAstreznik\\ARHIVAJAstreznik.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

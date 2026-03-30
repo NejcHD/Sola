@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiApp1.MainPage">
+
+    <VerticalStackLayout Padding="30" Spacing="20">
+        <Button Text="Osveži seznam" 
+                Clicked="OnOsveziClicked" />
+
+        <Button Text="Dodaj novega študenta" 
+        Clicked="OnPojdiNaDodajanjeClicked" 
+        BackgroundColor="Blue" 
+        TextColor="White" />
+
+        <CollectionView ItemsSource="{Binding Studenti}">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <HorizontalStackLayout Spacing="10" Padding="10">
+                        <Label Text="{Binding Ime}" FontAttributes="Bold" />
+                        <Label Text="{Binding Priimek}" />
+                    </HorizontalStackLayout>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </VerticalStackLayout>
+</ContentPage>

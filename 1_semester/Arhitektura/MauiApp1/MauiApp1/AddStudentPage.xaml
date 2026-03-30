@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiApp1.AddStudentPage"
+             Title="AddStudentPage">
+    
+    
+    
+    <VerticalStackLayout Padding="20" Spacing="15">
+        <Label Text="Dodaj novega študenta" FontSize="24" HorizontalOptions="Center" />
+
+        <Entry x:Name="EntryIme" Placeholder="Vnesi ime" />
+        <Entry x:Name="EntryPriimek" Placeholder="Vnesi priimek" />
+        <Entry x:Name="EntryVpisna" Placeholder="Vnesi vpisno številko" Keyboard="Numeric" />
+
+        <Button Text="Shrani študenta" Clicked="OnSaveClicked" BackgroundColor="Green" TextColor="White" />
+        <Button Text="Prekliči" Clicked="OnCancelClicked" BackgroundColor="Gray" TextColor="White" />
+    </VerticalStackLayout>
+    
+    
+</ContentPage>

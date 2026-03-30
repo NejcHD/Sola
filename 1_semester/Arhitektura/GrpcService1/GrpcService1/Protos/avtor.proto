@@ -1,0 +1,33 @@
+﻿syntax = "proto3"; 
+
+option csharp_namespace = "GrpcService1.Grpc";
+
+service Avtorji {
+  // Unary Call (Metoda za ustvarjanje)
+  rpc UstvariAvtorja (UstvariAvtorjaRequest) returns (AvtorResponse);
+  // Unary Call (Metoda za branje po ID)
+  rpc PridobiAvtorja (PridobiAvtorjaRequest) returns (AvtorResponse);
+}
+
+message Avtor {
+  int32 id = 1;      // Edinstvena številka je obvezna
+  string ime = 2;
+  string priimek = 3;
+}
+
+//vhodni parameter
+message UstvariAvtorjaRequest {
+  string ime = 1;
+  string priimek = 2;
+}
+
+//vhodni aprameter za isnaje avotjra
+message PridobiAvtorjaRequest{
+  int32  id = 1;
+}
+// izhodni parameter ki ga vraca za oba parametra
+message AvtorResponse {
+  Avtor avtor = 1;
+  string sporocilo = 2;
+}
+

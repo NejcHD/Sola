@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\DDD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB06EFA-03FC-4315-A36C-4697C1BB8B68}|DDD\\DDD.csproj|c:\\sola\\solaum\\2 letnik\\1 semester\\arhitektura\\ddd\\ddd\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{3EB06EFA-03FC-4315-A36C-4697C1BB8B68}|DDD\\DDD.csproj|solutionrelative:ddd\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB06EFA-03FC-4315-A36C-4697C1BB8B68}|DDD\\DDD.csproj|c:\\sola\\solaum\\2 letnik\\1 semester\\arhitektura\\ddd\\ddd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EB06EFA-03FC-4315-A36C-4697C1BB8B68}|DDD\\DDD.csproj|solutionrelative:ddd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB06EFA-03FC-4315-A36C-4697C1BB8B68}|DDD\\DDD.csproj|c:\\sola\\solaum\\2 letnik\\1 semester\\arhitektura\\ddd\\ddd\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EB06EFA-03FC-4315-A36C-4697C1BB8B68}|DDD\\DDD.csproj|solutionrelative:ddd\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C587C77D-6FB2-4D0B-9666-ACB65A0F5CC2}|DDDodjemalec\\DDDodjemalec.csproj|c:\\sola\\solaum\\2 letnik\\1 semester\\arhitektura\\ddd\\dddodjemalec\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C587C77D-6FB2-4D0B-9666-ACB65A0F5CC2}|DDDodjemalec\\DDDodjemalec.csproj|solutionrelative:dddodjemalec\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB06EFA-03FC-4315-A36C-4697C1BB8B68}|DDD\\DDD.csproj|c:\\sola\\solaum\\2 letnik\\1 semester\\arhitektura\\ddd\\ddd\\services\\osebaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EB06EFA-03FC-4315-A36C-4697C1BB8B68}|DDD\\DDD.csproj|solutionrelative:ddd\\services\\osebaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C587C77D-6FB2-4D0B-9666-ACB65A0F5CC2}|DDDodjemalec\\DDDodjemalec.csproj|c:\\sola\\solaum\\2 letnik\\1 semester\\arhitektura\\ddd\\dddodjemalec\\dddodjemalec.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C587C77D-6FB2-4D0B-9666-ACB65A0F5CC2}|DDDodjemalec\\DDDodjemalec.csproj|solutionrelative:dddodjemalec\\dddodjemalec.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\DDD\\DDDodjemalec\\Program.cs",
+              "RelativeDocumentMoniker": "DDDodjemalec\\Program.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\DDD\\DDDodjemalec\\Program.cs",
+              "RelativeToolTip": "DDDodjemalec\\Program.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAgwHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T19:23:53.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DDDodjemalec",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\DDD\\DDDodjemalec\\DDDodjemalec.csproj",
+              "RelativeDocumentMoniker": "DDDodjemalec\\DDDodjemalec.csproj",
+              "ToolTip": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\DDD\\DDDodjemalec\\DDDodjemalec.csproj",
+              "RelativeToolTip": "DDDodjemalec\\DDDodjemalec.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-03T19:23:26.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\DDD\\DDD\\Program.cs",
+              "RelativeDocumentMoniker": "DDD\\Program.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\DDD\\DDD\\Program.cs",
+              "RelativeToolTip": "DDD\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T19:21:02.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OsebaService.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\DDD\\DDD\\Services\\OsebaService.cs",
+              "RelativeDocumentMoniker": "DDD\\Services\\OsebaService.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\DDD\\DDD\\Services\\OsebaService.cs",
+              "RelativeToolTip": "DDD\\Services\\OsebaService.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAQwH8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T19:20:47.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "greet.proto",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\DDD\\DDD\\Protos\\greet.proto",
+              "RelativeDocumentMoniker": "DDD\\Protos\\greet.proto",
+              "ToolTip": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\DDD\\DDD\\Protos\\greet.proto",
+              "RelativeToolTip": "DDD\\Protos\\greet.proto",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2025-12-03T19:19:43.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\DDD\\DDD\\Server.cs",
+              "RelativeDocumentMoniker": "DDD\\Server.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\DDD\\DDD\\Server.cs",
+              "RelativeToolTip": "DDD\\Server.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T19:18:55.43Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+syntax = "proto3";
+
+import "google/protobuf/timestamp.proto";
+
+// Definicija C# imenskega prostora
+option csharp_namespace = "GrpcOseba";
+
+package oseba;
+
+// Prazen objekt za metode, ki ne potrebujejo parametrov (npr. PridobiVseOsebe)
+message Empty {}
+
+// Protobuf reprezentacija entitete Oseba
+message OsebaMessage {
+  int32 id = 1;
+  string ime = 2;
+  string priimek = 3;
+  // Uporabimo Protobuf Timestamp, ker DateTime ni standardni tip
+  google.protobuf.Timestamp datum_rojstva = 4; 
+}
+
+// Zahteva za operacije, ki delujejo z ID-jem
+message OsebaIdRequest {
+  int32 id = 1;
+}
+
+// Odgovor, ki vrne seznam oseb
+message VseOsebeReply {
+  repeated OsebaMessage osebe = 1; // 'repeated' pomeni seznam
+}
+
+// Glavna storitev z vsemi CRUD operacijami
+service OsebeService {
+  
+  rpc UstvariOsebo (OsebaMessage) returns (OsebaMessage);
+  rpc PridobiOsebo (OsebaIdRequest) returns (OsebaMessage);
+  rpc PosodobiOsebo (OsebaMessage) returns (OsebaMessage);
+  rpc IzbrisiOsebo (OsebaIdRequest) returns (Empty);
+  rpc PridobiVseOsebe (Empty) returns (VseOsebeReply);
+}

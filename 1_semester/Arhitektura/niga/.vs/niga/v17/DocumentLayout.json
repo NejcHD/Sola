@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\niga\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{243098EB-77E2-478D-9D1E-F73362C1CB07}|niga\\niga.csproj|c:\\sola\\solaum\\2 letnik\\1 semester\\arhitektura\\niga\\niga\\model\\niga.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{243098EB-77E2-478D-9D1E-F73362C1CB07}|niga\\niga.csproj|solutionrelative:niga\\model\\niga.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243098EB-77E2-478D-9D1E-F73362C1CB07}|niga\\niga.csproj|c:\\sola\\solaum\\2 letnik\\1 semester\\arhitektura\\niga\\niga\\niga.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{243098EB-77E2-478D-9D1E-F73362C1CB07}|niga\\niga.csproj|solutionrelative:niga\\niga.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243098EB-77E2-478D-9D1E-F73362C1CB07}|niga\\niga.csproj|c:\\sola\\solaum\\2 letnik\\1 semester\\arhitektura\\niga\\niga\\neki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{243098EB-77E2-478D-9D1E-F73362C1CB07}|niga\\niga.csproj|solutionrelative:niga\\neki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243098EB-77E2-478D-9D1E-F73362C1CB07}|niga\\niga.csproj|c:\\sola\\solaum\\2 letnik\\1 semester\\arhitektura\\niga\\niga\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{243098EB-77E2-478D-9D1E-F73362C1CB07}|niga\\niga.csproj|solutionrelative:niga\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243098EB-77E2-478D-9D1E-F73362C1CB07}|niga\\niga.csproj|c:\\sola\\solaum\\2 letnik\\1 semester\\arhitektura\\niga\\niga\\datastorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{243098EB-77E2-478D-9D1E-F73362C1CB07}|niga\\niga.csproj|solutionrelative:niga\\datastorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "niga.http",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\niga\\niga\\Model\\niga.http",
+              "RelativeDocumentMoniker": "niga\\Model\\niga.http",
+              "ToolTip": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\niga\\niga\\Model\\niga.http",
+              "RelativeToolTip": "niga\\Model\\niga.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-12-02T19:18:09.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "niga",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\niga\\niga\\niga.csproj",
+              "RelativeDocumentMoniker": "niga\\niga.csproj",
+              "ToolTip": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\niga\\niga\\niga.csproj*",
+              "RelativeToolTip": "niga\\niga.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-02T17:02:38.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataStorage.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\niga\\niga\\DataStorage.cs",
+              "RelativeDocumentMoniker": "niga\\DataStorage.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\niga\\niga\\DataStorage.cs",
+              "RelativeToolTip": "niga\\DataStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T17:21:10.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\niga\\niga\\Program.cs",
+              "RelativeDocumentMoniker": "niga\\Program.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\niga\\niga\\Program.cs",
+              "RelativeToolTip": "niga\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T17:13:28.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "neki.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\niga\\niga\\neki.cs",
+              "RelativeDocumentMoniker": "niga\\neki.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2 letnik\\1 semester\\Arhitektura\\niga\\niga\\neki.cs",
+              "RelativeToolTip": "niga\\neki.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T17:02:47.101Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

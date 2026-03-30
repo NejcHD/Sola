@@ -1,0 +1,60 @@
+﻿
+.voice-btn {
+    padding: 10px 15px;
+    background-color: var(--primary-color);
+    color: black;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: background-color 0.3s;
+}
+
+.voice-btn:hover {
+    background-color: #2980b9;
+    opacity: 0.9;
+}
+
+.commands-list {
+    margin-top: 10px;
+}
+
+.voice-command {
+    background-color: rgba(52, 152, 219, 0.1);
+    border: 1px solid rgba(52, 152, 219, 0.3);
+    border-radius: 5px;
+    padding: 8px 12px;
+    margin: 5px 0;
+    font-family: monospace;
+    font-size: 14px;
+    transition: all 0.2s;
+}
+
+.voice-command:hover {
+    background-color: rgba(52, 152, 219, 0.2);
+    transform: translateX(5px);
+}
+
+#voice-commands-display h3 {
+    margin-top: 0;
+    color: var(--primary-color);
+    border-bottom: 2px solid var(--primary-color);
+    padding-bottom: 5px;
+}
+
+#voice-commands-display p {
+    margin: 5px 0;
+    font-size: 14px;
+}
+
+
+.listening-indicator {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    background-color: #e74c3c;
+    border-radius: 50%;
+    margin-right: 5px;
+    animation: pulse 1.5s infinite;
+}
+

@@ -1,0 +1,18 @@
+﻿[
+  {
+    "naslov": "Dober dan!",
+    "avtor": "Ana Novak",
+    "vsebina": "Želim vsem lep in sončen dan.",
+    "datum": "2024-03-15",
+    "vsec": 24,
+    "slikaPot": "images/user1.png"
+  },
+  {
+    "naslov": "Vikend na planini",
+    "avtor": "Marko Kovač",
+    "vsebina": "Prečudovit vikend v gorah.",
+    "datum": "2024-03-10",
+    "vsec": 18,
+    "slikaPot": "images/user2.png"
+  }
+]

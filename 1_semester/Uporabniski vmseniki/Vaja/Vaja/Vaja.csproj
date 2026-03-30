@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Slike\dsadasdasdasdasdasdas.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Slike\dsadasdasdasdasdasdas.png" />
+  </ItemGroup>
+
+</Project>
