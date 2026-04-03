@@ -26,3 +26,7 @@ window.onload = function(){
     PrikazCas();
     $("#moj-harmonika").accordion();
 }
+
+$(document).ready(function () {
+    $("#moj-harmonika").accordion();
+});

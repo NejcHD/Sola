@@ -1,0 +1,6 @@
+@TriAtlon_Nal2_HostAddress = http://localhost:5183
+
+GET {{TriAtlon_Nal2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,60 @@
+﻿<Window x:Class="Sifriranje.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Kriptografska Aplikacija (AES &amp; RSA)" Height="600" Width="450">
+    <Grid>
+        <StackPanel Margin="20">
+            <TextBlock Text="Kriptografska Aplikacija" FontSize="22" FontWeight="Bold" HorizontalAlignment="Center" Margin="0,0,0,20"/>
+
+            <GroupBox Header="1. Izbira datoteke" Margin="0,0,0,10" Padding="5">
+                <StackPanel Orientation="Horizontal">
+                    <TextBox x:Name="txtFilePath" Width="280" IsReadOnly="True" VerticalAlignment="Center" Margin="5"/>
+                    <Button x:Name="btnBrowse" Content="Prebrskaj..." Click="BtnBrowse_Click" Padding="10,5"/>
+                </StackPanel>
+            </GroupBox>
+
+            <GroupBox Header="2. Nastavitve AES" Margin="0,0,0,10" Padding="5">
+                <StackPanel>
+                    <TextBlock Text="Dolžina AES ključa (bitov):" Margin="5,0,0,5"/>
+                    <ComboBox x:Name="cbAesSize" SelectedIndex="2" Margin="5">
+                        <ComboBoxItem Content="128"/>
+                        <ComboBoxItem Content="192"/>
+                        <ComboBoxItem Content="256"/>
+                    </ComboBox>
+
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,10,0,5">
+                        <Button x:Name="btnEncrypt" Content="Šifriraj Datoteko" Click="BtnEBtnEncrypt_Click" 
+                                Margin="5" Padding="15,5" Background="LightCoral" FontWeight="Bold"/>
+
+                        <Button x:Name="btnDecrypt" Content="Dešifriraj Datoteko" Click="BtnDecrypt_Clicl" 
+                                Margin="5" Padding="15,5" Background="LightGreen" FontWeight="Bold"/>
+                    </StackPanel>
+                </StackPanel>
+            </GroupBox>
+
+            <GroupBox Header="3. Upravljanje s ključi (RSA Zaščita)" Margin="0,0,0,10" Padding="5">
+                <StackPanel>
+                    <TextBlock Text="Dolžina RSA ključa (bitov):" Margin="5,0,0,5"/>
+                    <ComboBox x:Name="cbRsaSize" SelectedIndex="1" Margin="5">
+                        <ComboBoxItem Content="1024"/>
+                        <ComboBoxItem Content="2048"/>
+                        <ComboBoxItem Content="3072"/>
+                    </ComboBox>
+
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,10,0,5">
+                        <Button x:Name="btnSaveKeys" Content="Sifriraj in Shrani Ključe" Click="BtnSaveKeys_Click" 
+                                Margin="5" Padding="10,5"/>
+
+                        <Button x:Name="btnLoadKeys" Content="Naloži in Odkleni Ključe" Click="BtnLoadKeys_Clicl" 
+                                Margin="5" Padding="10,5"/>
+                    </StackPanel>
+                </StackPanel>
+            </GroupBox>
+
+            <Separator Margin="0,10,0,10"/>
+            <TextBlock Text="Status:" FontWeight="Bold" Margin="5,0,0,0"/>
+            <TextBlock x:Name="lblStatus" Text="Čakam na izbiro..." Foreground="Blue" 
+                       TextWrapping="Wrap" Margin="5,5,5,0" FontStyle="Italic"/>
+        </StackPanel>
+    </Grid>
+</Window>

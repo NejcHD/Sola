@@ -1,0 +1,55 @@
+﻿@model Naloga1_Dinamicna.Models.RegistracijaViewModel
+
+<div class="container mt-4">
+    <h2>1. Korak: Osebni podatki</h2>
+    <hr />
+
+    <form asp-action="Korak1" asp-controller="Registracija" method="post" novalidate>
+        <div class="row">
+            <div class="col-md-6 mb-3">
+                <label asp-for="Ime" class="form-label">Ime</label>
+                <input asp-for="Ime" class="form-control" />
+            </div>
+            <div class="col-md-6 mb-3">
+                <label asp-for="Priimek" class="form-label">Priimek</label>
+                <input asp-for="Priimek" class="form-control" />
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-6 mb-3">
+                <label asp-for="DatumRojstva" class="form-label">Datum rojstva</label>
+                <input asp-for="DatumRojstva" type="date" class="form-control" />
+            </div>
+            <div class="col-md-6 mb-3">
+                <label asp-for="Emso" class="form-label">EMŠO</label>
+                <input asp-for="Emso" class="form-control" />
+            </div>
+        </div>
+
+        <div class="mb-4 mt-3">
+            <label class="form-label">Starost: <span id="starost-izpis" class="fw-bold text-primary">18</span> let</label>
+            <div id="slider-starost"></div>
+            <input type="hidden" asp-for="Starost" id="Starost" value="18" />
+        </div>
+
+        <button type="submit" class="btn btn-primary">Naprej</button>
+    </form>
+</div>
+
+@section Scripts {
+    <script>
+        $(function () {
+            $("#slider-starost").slider({
+                range: "min",
+                value: 18,
+                min: 0,
+                max: 100,
+                slide: function (event, ui) {
+                    $("#starost-izpis").text(ui.value);
+                    $("#Starost").val(ui.value);
+                }
+            });
+        });
+    </script>
+}

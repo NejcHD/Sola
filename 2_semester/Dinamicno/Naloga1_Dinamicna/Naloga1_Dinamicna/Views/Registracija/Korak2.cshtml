@@ -1,0 +1,31 @@
+﻿@model Naloga1_Dinamicna.Models.RegistracijaViewModel
+
+<div class="container mt-4">
+    <h2>2. Korak: Naslov bivanja</h2>
+    <hr />
+
+    <form asp-action="Korak2" method="post">
+        <div class="mb-3">
+            <label asp-for="Naslov" class="form-label">Ulica in hišna številka</label>
+            <input asp-for="Naslov" class="form-control" />
+        </div>
+
+        <div class="row">
+            <div class="col-md-4 mb-3">
+                <label asp-for="PostnaStevilka" class="form-label">Poštna številka</label>
+                <input asp-for="PostnaStevilka" class="form-control" />
+            </div>
+            <div class="col-md-8 mb-3">
+                <label asp-for="Posta" class="form-label">Kraj / Pošta</label>
+                <input asp-for="Posta" class="form-control" />
+            </div>
+        </div>
+
+        <div class="mb-4">
+            <label asp-for="Drzava" class="form-label">Država</label>
+            <input asp-for="Drzava" class="form-control" value="Slovenija" />
+        </div>
+
+        <button type="submit" class="btn btn-primary">Naprej (Korak 3)</button>
+    </form>
+</div>

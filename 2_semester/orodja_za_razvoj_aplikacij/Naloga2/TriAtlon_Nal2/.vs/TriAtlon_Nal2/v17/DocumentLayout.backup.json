@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\sola\\solaUM\\2_letnik\\2_semester\\orodja_za_razvoj_aplikacij\\Naloga2\\TriAtlon_Nal2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB247F9D-1DD3-4F6C-AFA4-CBB4D272F7D9}|TriAtlon_Nal2\\TriAtlon_Nal2.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\orodja_za_razvoj_aplikacij\\naloga2\\triatlon_nal2\\triatlon_nal2\\endpoints\\tekmovalciendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB247F9D-1DD3-4F6C-AFA4-CBB4D272F7D9}|TriAtlon_Nal2\\TriAtlon_Nal2.csproj|solutionrelative:triatlon_nal2\\endpoints\\tekmovalciendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB247F9D-1DD3-4F6C-AFA4-CBB4D272F7D9}|TriAtlon_Nal2\\TriAtlon_Nal2.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\orodja_za_razvoj_aplikacij\\naloga2\\triatlon_nal2\\triatlon_nal2\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB247F9D-1DD3-4F6C-AFA4-CBB4D272F7D9}|TriAtlon_Nal2\\TriAtlon_Nal2.csproj|solutionrelative:triatlon_nal2\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB247F9D-1DD3-4F6C-AFA4-CBB4D272F7D9}|TriAtlon_Nal2\\TriAtlon_Nal2.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\orodja_za_razvoj_aplikacij\\naloga2\\triatlon_nal2\\triatlon_nal2\\endpoints\\tekmaendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB247F9D-1DD3-4F6C-AFA4-CBB4D272F7D9}|TriAtlon_Nal2\\TriAtlon_Nal2.csproj|solutionrelative:triatlon_nal2\\endpoints\\tekmaendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB247F9D-1DD3-4F6C-AFA4-CBB4D272F7D9}|TriAtlon_Nal2\\TriAtlon_Nal2.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\orodja_za_razvoj_aplikacij\\naloga2\\triatlon_nal2\\triatlon_nal2\\endpoints\\rezultatiendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB247F9D-1DD3-4F6C-AFA4-CBB4D272F7D9}|TriAtlon_Nal2\\TriAtlon_Nal2.csproj|solutionrelative:triatlon_nal2\\endpoints\\rezultatiendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB247F9D-1DD3-4F6C-AFA4-CBB4D272F7D9}|TriAtlon_Nal2\\TriAtlon_Nal2.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\orodja_za_razvoj_aplikacij\\naloga2\\triatlon_nal2\\triatlon_nal2\\triatlon_nal2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AB247F9D-1DD3-4F6C-AFA4-CBB4D272F7D9}|TriAtlon_Nal2\\TriAtlon_Nal2.csproj|solutionrelative:triatlon_nal2\\triatlon_nal2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB247F9D-1DD3-4F6C-AFA4-CBB4D272F7D9}|TriAtlon_Nal2\\TriAtlon_Nal2.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\orodja_za_razvoj_aplikacij\\naloga2\\triatlon_nal2\\triatlon_nal2\\models\\tekmovalci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB247F9D-1DD3-4F6C-AFA4-CBB4D272F7D9}|TriAtlon_Nal2\\TriAtlon_Nal2.csproj|solutionrelative:triatlon_nal2\\models\\tekmovalci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB247F9D-1DD3-4F6C-AFA4-CBB4D272F7D9}|TriAtlon_Nal2\\TriAtlon_Nal2.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\orodja_za_razvoj_aplikacij\\naloga2\\triatlon_nal2\\triatlon_nal2\\endpoints\\drzavaendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB247F9D-1DD3-4F6C-AFA4-CBB4D272F7D9}|TriAtlon_Nal2\\TriAtlon_Nal2.csproj|solutionrelative:triatlon_nal2\\endpoints\\drzavaendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB247F9D-1DD3-4F6C-AFA4-CBB4D272F7D9}|TriAtlon_Nal2\\TriAtlon_Nal2.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\orodja_za_razvoj_aplikacij\\naloga2\\triatlon_nal2\\triatlon_nal2\\models\\rezultat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB247F9D-1DD3-4F6C-AFA4-CBB4D272F7D9}|TriAtlon_Nal2\\TriAtlon_Nal2.csproj|solutionrelative:triatlon_nal2\\models\\rezultat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB247F9D-1DD3-4F6C-AFA4-CBB4D272F7D9}|TriAtlon_Nal2\\TriAtlon_Nal2.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\orodja_za_razvoj_aplikacij\\naloga2\\triatlon_nal2\\triatlon_nal2\\models\\drzava.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB247F9D-1DD3-4F6C-AFA4-CBB4D272F7D9}|TriAtlon_Nal2\\TriAtlon_Nal2.csproj|solutionrelative:triatlon_nal2\\models\\drzava.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB247F9D-1DD3-4F6C-AFA4-CBB4D272F7D9}|TriAtlon_Nal2\\TriAtlon_Nal2.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\orodja_za_razvoj_aplikacij\\naloga2\\triatlon_nal2\\triatlon_nal2\\models\\tiptekmovanja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB247F9D-1DD3-4F6C-AFA4-CBB4D272F7D9}|TriAtlon_Nal2\\TriAtlon_Nal2.csproj|solutionrelative:triatlon_nal2\\models\\tiptekmovanja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB247F9D-1DD3-4F6C-AFA4-CBB4D272F7D9}|TriAtlon_Nal2\\TriAtlon_Nal2.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\orodja_za_razvoj_aplikacij\\naloga2\\triatlon_nal2\\triatlon_nal2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB247F9D-1DD3-4F6C-AFA4-CBB4D272F7D9}|TriAtlon_Nal2\\TriAtlon_Nal2.csproj|solutionrelative:triatlon_nal2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB247F9D-1DD3-4F6C-AFA4-CBB4D272F7D9}|TriAtlon_Nal2\\TriAtlon_Nal2.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\orodja_za_razvoj_aplikacij\\naloga2\\triatlon_nal2\\triatlon_nal2\\models\\tekma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB247F9D-1DD3-4F6C-AFA4-CBB4D272F7D9}|TriAtlon_Nal2\\TriAtlon_Nal2.csproj|solutionrelative:triatlon_nal2\\models\\tekma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB247F9D-1DD3-4F6C-AFA4-CBB4D272F7D9}|TriAtlon_Nal2\\TriAtlon_Nal2.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\orodja_za_razvoj_aplikacij\\naloga2\\triatlon_nal2\\triatlon_nal2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AB247F9D-1DD3-4F6C-AFA4-CBB4D272F7D9}|TriAtlon_Nal2\\TriAtlon_Nal2.csproj|solutionrelative:triatlon_nal2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TriAtlon_Nal2.csproj",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\orodja_za_razvoj_aplikacij\\Naloga2\\TriAtlon_Nal2\\TriAtlon_Nal2\\TriAtlon_Nal2.csproj",
+              "RelativeDocumentMoniker": "TriAtlon_Nal2\\TriAtlon_Nal2.csproj",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\orodja_za_razvoj_aplikacij\\Naloga2\\TriAtlon_Nal2\\TriAtlon_Nal2\\TriAtlon_Nal2.csproj",
+              "RelativeToolTip": "TriAtlon_Nal2\\TriAtlon_Nal2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-31T10:04:44.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tekmovalci.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\orodja_za_razvoj_aplikacij\\Naloga2\\TriAtlon_Nal2\\TriAtlon_Nal2\\Models\\Tekmovalci.cs",
+              "RelativeDocumentMoniker": "TriAtlon_Nal2\\Models\\Tekmovalci.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\orodja_za_razvoj_aplikacij\\Naloga2\\TriAtlon_Nal2\\TriAtlon_Nal2\\Models\\Tekmovalci.cs",
+              "RelativeToolTip": "TriAtlon_Nal2\\Models\\Tekmovalci.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T10:02:43.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Tekma.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\orodja_za_razvoj_aplikacij\\Naloga2\\TriAtlon_Nal2\\TriAtlon_Nal2\\Models\\Tekma.cs",
+              "RelativeDocumentMoniker": "TriAtlon_Nal2\\Models\\Tekma.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\orodja_za_razvoj_aplikacij\\Naloga2\\TriAtlon_Nal2\\TriAtlon_Nal2\\Models\\Tekma.cs",
+              "RelativeToolTip": "TriAtlon_Nal2\\Models\\Tekma.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T10:02:31.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TipTekmovanja.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\orodja_za_razvoj_aplikacij\\Naloga2\\TriAtlon_Nal2\\TriAtlon_Nal2\\Models\\TipTekmovanja.cs",
+              "RelativeDocumentMoniker": "TriAtlon_Nal2\\Models\\TipTekmovanja.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\orodja_za_razvoj_aplikacij\\Naloga2\\TriAtlon_Nal2\\TriAtlon_Nal2\\Models\\TipTekmovanja.cs",
+              "RelativeToolTip": "TriAtlon_Nal2\\Models\\TipTekmovanja.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T10:02:17.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Drzava.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\orodja_za_razvoj_aplikacij\\Naloga2\\TriAtlon_Nal2\\TriAtlon_Nal2\\Models\\Drzava.cs",
+              "RelativeDocumentMoniker": "TriAtlon_Nal2\\Models\\Drzava.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\orodja_za_razvoj_aplikacij\\Naloga2\\TriAtlon_Nal2\\TriAtlon_Nal2\\Models\\Drzava.cs",
+              "RelativeToolTip": "TriAtlon_Nal2\\Models\\Drzava.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T10:01:54.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Rezultat.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\orodja_za_razvoj_aplikacij\\Naloga2\\TriAtlon_Nal2\\TriAtlon_Nal2\\Models\\Rezultat.cs",
+              "RelativeDocumentMoniker": "TriAtlon_Nal2\\Models\\Rezultat.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\orodja_za_razvoj_aplikacij\\Naloga2\\TriAtlon_Nal2\\TriAtlon_Nal2\\Models\\Rezultat.cs",
+              "RelativeToolTip": "TriAtlon_Nal2\\Models\\Rezultat.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T09:55:27.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TekmaEndpoints.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\orodja_za_razvoj_aplikacij\\Naloga2\\TriAtlon_Nal2\\TriAtlon_Nal2\\EndPoints\\TekmaEndpoints.cs",
+              "RelativeDocumentMoniker": "TriAtlon_Nal2\\EndPoints\\TekmaEndpoints.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\orodja_za_razvoj_aplikacij\\Naloga2\\TriAtlon_Nal2\\TriAtlon_Nal2\\EndPoints\\TekmaEndpoints.cs",
+              "RelativeToolTip": "TriAtlon_Nal2\\EndPoints\\TekmaEndpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T12:12:22.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DrzavaEndpoints.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\orodja_za_razvoj_aplikacij\\Naloga2\\TriAtlon_Nal2\\TriAtlon_Nal2\\EndPoints\\DrzavaEndpoints.cs",
+              "RelativeDocumentMoniker": "TriAtlon_Nal2\\EndPoints\\DrzavaEndpoints.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\orodja_za_razvoj_aplikacij\\Naloga2\\TriAtlon_Nal2\\TriAtlon_Nal2\\EndPoints\\DrzavaEndpoints.cs",
+              "RelativeToolTip": "TriAtlon_Nal2\\EndPoints\\DrzavaEndpoints.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwBAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T12:12:48.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RezultatiEndpoints.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\orodja_za_razvoj_aplikacij\\Naloga2\\TriAtlon_Nal2\\TriAtlon_Nal2\\EndPoints\\RezultatiEndpoints.cs",
+              "RelativeDocumentMoniker": "TriAtlon_Nal2\\EndPoints\\RezultatiEndpoints.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\orodja_za_razvoj_aplikacij\\Naloga2\\TriAtlon_Nal2\\TriAtlon_Nal2\\EndPoints\\RezultatiEndpoints.cs",
+              "RelativeToolTip": "TriAtlon_Nal2\\EndPoints\\RezultatiEndpoints.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAQwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T12:11:09.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TekmovalciEndpoints.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\orodja_za_razvoj_aplikacij\\Naloga2\\TriAtlon_Nal2\\TriAtlon_Nal2\\EndPoints\\TekmovalciEndpoints.cs",
+              "RelativeDocumentMoniker": "TriAtlon_Nal2\\EndPoints\\TekmovalciEndpoints.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\orodja_za_razvoj_aplikacij\\Naloga2\\TriAtlon_Nal2\\TriAtlon_Nal2\\EndPoints\\TekmovalciEndpoints.cs*",
+              "RelativeToolTip": "TriAtlon_Nal2\\EndPoints\\TekmovalciEndpoints.cs*",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwDAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T10:08:06.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\orodja_za_razvoj_aplikacij\\Naloga2\\TriAtlon_Nal2\\TriAtlon_Nal2\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TriAtlon_Nal2\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\orodja_za_razvoj_aplikacij\\Naloga2\\TriAtlon_Nal2\\TriAtlon_Nal2\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "TriAtlon_Nal2\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswA0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T10:03:29.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\orodja_za_razvoj_aplikacij\\Naloga2\\TriAtlon_Nal2\\TriAtlon_Nal2\\Program.cs",
+              "RelativeDocumentMoniker": "TriAtlon_Nal2\\Program.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\orodja_za_razvoj_aplikacij\\Naloga2\\TriAtlon_Nal2\\TriAtlon_Nal2\\Program.cs",
+              "RelativeToolTip": "TriAtlon_Nal2\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T10:04:21.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\orodja_za_razvoj_aplikacij\\Naloga2\\TriAtlon_Nal2\\TriAtlon_Nal2\\appsettings.json",
+              "RelativeDocumentMoniker": "TriAtlon_Nal2\\appsettings.json",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\orodja_za_razvoj_aplikacij\\Naloga2\\TriAtlon_Nal2\\TriAtlon_Nal2\\appsettings.json",
+              "RelativeToolTip": "TriAtlon_Nal2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-31T09:52:53.126Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

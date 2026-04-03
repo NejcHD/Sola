@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36908.2 d17.14
+VisualStudioVersion = 17.14.36908.2
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Naloga1_Dinamicna", "Naloga1_Dinamicna\Naloga1_Dinamicna.csproj", "{9615FEAB-3200-48D5-99A7-C86F74E3E48F}"
 EndProject

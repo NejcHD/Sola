@@ -1,0 +1,29 @@
+﻿@model Naloga1_Dinamicna.Models.RegistracijaViewModel
+
+<div class="container mt-4">
+    <h2>3. Korak: Dostopni podatki</h2>
+    <hr />
+
+    <form asp-action="Korak3" method="post">
+        <div class="mb-3">
+            <label asp-for="Email" class="form-label">E-poštni naslov</label>
+            <input asp-for="Email" class="form-control" />
+            <span asp-validation-for="Email" class="text-danger"></span>
+        </div>
+
+        <div class="row">
+            <div class="col-md-6 mb-3">
+                <label asp-for="Geslo" class="form-label">Geslo</label>
+                <input asp-for="Geslo" type="password" class="form-control" />
+                <span asp-validation-for="Geslo" class="text-danger"></span>
+            </div>
+            <div class="col-md-6 mb-3">
+                <label asp-for="PotrditevGesla" class="form-label">Ponovite geslo</label>
+                <input asp-for="PotrditevGesla" type="password" class="form-control" />
+                <span asp-validation-for="PotrditevGesla" class="text-danger"></span>
+            </div>
+        </div>
+
+        <button type="submit" class="btn btn-success">Zaključi registracijo</button>
+    </form>
+</div>

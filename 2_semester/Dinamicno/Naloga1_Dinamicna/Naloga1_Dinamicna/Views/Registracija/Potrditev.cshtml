@@ -1,0 +1,27 @@
+﻿@model Naloga1_Dinamicna.Models.RegistracijaViewModel
+
+<div class="container mt-4">
+    <div class="alert alert-success">
+        <h2>Registracija uspešna!</h2>
+        <p>Preverite vpisane podatke:</p>
+    </div>
+
+    <div class="card p-4 shadow">
+        <h4>Osebni podatki</h4>
+        <p><strong>Ime in priimek:</strong> @Model.Ime @Model.Priimek</p>
+        <p><strong>Starost:</strong> @Model.Starost let</p>
+        <p><strong>EMŠO:</strong> @Model.Emso</p>
+
+        <hr />
+        <h4>Naslov</h4>
+        <p>@Model.Naslov, @Model.PostnaStevilka @Model.Posta, @Model.Drzava</p>
+
+        <hr />
+        <h4>Kontakt</h4>
+        <p><strong>Email:</strong> @Model.Email</p>
+    </div>
+
+    <div class="mt-4">
+        <a asp-controller="Home" asp-action="Index" class="btn btn-primary">Nazaj na prvo stran</a>
+    </div>
+</div>
