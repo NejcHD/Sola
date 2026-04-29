@@ -1,0 +1,15 @@
+﻿@model Naloga1_Dinamicna.Models.IzdelekViewModel
+
+<div class="container mt-4">
+    <div class="card shadow">
+        <div class="card-header bg-success text-white">
+            <h3>Podatki o izdelku</h3>
+        </div>
+        <div class="card-body">
+            @Html.DisplayForModel()
+        </div>
+        <div class="card-footer text-center">
+            <a asp-action="Index" class="btn btn-outline-success">Dodaj nov izdelek</a>
+        </div>
+    </div>
+</div>

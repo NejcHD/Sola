@@ -3,32 +3,164 @@
   "WorkspaceRootPath": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\dinamicno\\naloga1_dinamicna\\naloga1_dinamicna\\controllers\\registracijacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|solutionrelative:naloga1_dinamicna\\controllers\\registracijacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\dinamicno\\naloga1_dinamicna\\naloga1_dinamicna\\views\\izdelek\\seznam.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|solutionrelative:naloga1_dinamicna\\views\\izdelek\\seznam.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\dinamicno\\naloga1_dinamicna\\naloga1_dinamicna\\controllers\\rezervacijecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|solutionrelative:naloga1_dinamicna\\controllers\\rezervacijecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\dinamicno\\naloga1_dinamicna\\naloga1_dinamicna\\views\\izdelek\\prikaz.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|solutionrelative:naloga1_dinamicna\\views\\izdelek\\prikaz.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\dinamicno\\naloga1_dinamicna\\naloga1_dinamicna\\views\\izdelek\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|solutionrelative:naloga1_dinamicna\\views\\izdelek\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\dinamicno\\naloga1_dinamicna\\naloga1_dinamicna\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|solutionrelative:naloga1_dinamicna\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\dinamicno\\naloga1_dinamicna\\naloga1_dinamicna\\controllers\\izdelekcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|solutionrelative:naloga1_dinamicna\\controllers\\izdelekcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\dinamicno\\naloga1_dinamicna\\naloga1_dinamicna\\controllers\\potnikicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|solutionrelative:naloga1_dinamicna\\controllers\\potnikicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\dinamicno\\naloga1_dinamicna\\naloga1_dinamicna\\controllers\\registracijacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|solutionrelative:naloga1_dinamicna\\controllers\\registracijacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\dinamicno\\naloga1_dinamicna\\naloga1_dinamicna\\models\\registracijaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|solutionrelative:naloga1_dinamicna\\models\\registracijaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\dinamicno\\naloga1_dinamicna\\naloga1_dinamicna\\views\\registracija\\korak1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|solutionrelative:naloga1_dinamicna\\views\\registracija\\korak1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\dinamicno\\naloga1_dinamicna\\naloga1_dinamicna\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|solutionrelative:naloga1_dinamicna\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\dinamicno\\naloga1_dinamicna\\naloga1_dinamicna\\views\\registracija\\korak2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|solutionrelative:naloga1_dinamicna\\views\\registracija\\korak2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\dinamicno\\naloga1_dinamicna\\naloga1_dinamicna\\views\\registracija\\seznam.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|solutionrelative:naloga1_dinamicna\\views\\registracija\\seznam.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\dinamicno\\naloga1_dinamicna\\naloga1_dinamicna\\migrations\\20260421134030_inicialnabaza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|solutionrelative:naloga1_dinamicna\\migrations\\20260421134030_inicialnabaza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\dinamicno\\naloga1_dinamicna\\naloga1_dinamicna\\models\\izdelekviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|solutionrelative:naloga1_dinamicna\\models\\izdelekviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\dinamicno\\naloga1_dinamicna\\naloga1_dinamicna\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|solutionrelative:naloga1_dinamicna\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\dinamicno\\naloga1_dinamicna\\naloga1_dinamicna\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|solutionrelative:naloga1_dinamicna\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\dinamicno\\naloga1_dinamicna\\naloga1_dinamicna\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|solutionrelative:naloga1_dinamicna\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\dinamicno\\naloga1_dinamicna\\naloga1_dinamicna\\models\\emsoattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|solutionrelative:naloga1_dinamicna\\models\\emsoattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\dinamicno\\naloga1_dinamicna\\naloga1_dinamicna\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|solutionrelative:naloga1_dinamicna\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\dinamicno\\naloga1_dinamicna\\naloga1_dinamicna\\views\\shared\\editortemplates\\int32.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|solutionrelative:naloga1_dinamicna\\views\\shared\\editortemplates\\int32.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\dinamicno\\naloga1_dinamicna\\naloga1_dinamicna\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|solutionrelative:naloga1_dinamicna\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\dinamicno\\naloga1_dinamicna\\naloga1_dinamicna\\controllers\\leticontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|solutionrelative:naloga1_dinamicna\\controllers\\leticontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\dinamicno\\naloga1_dinamicna\\naloga1_dinamicna\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|solutionrelative:naloga1_dinamicna\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\dinamicno\\naloga1_dinamicna\\naloga1_dinamicna\\controllers\\rezervacijecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|solutionrelative:naloga1_dinamicna\\controllers\\rezervacijecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\dinamicno\\naloga1_dinamicna\\naloga1_dinamicna\\views\\shared\\displaytemplates\\registracijaviewmodel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|solutionrelative:naloga1_dinamicna\\views\\shared\\displaytemplates\\registracijaviewmodel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\dinamicno\\naloga1_dinamicna\\naloga1_dinamicna\\views\\shared\\editortemplates\\registracijaviewmodel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|solutionrelative:naloga1_dinamicna\\views\\shared\\editortemplates\\registracijaviewmodel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\dinamicno\\naloga1_dinamicna\\naloga1_dinamicna\\views\\registracija\\prikaz.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|solutionrelative:naloga1_dinamicna\\views\\registracija\\prikaz.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\dinamicno\\naloga1_dinamicna\\naloga1_dinamicna\\views\\registracija\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|solutionrelative:naloga1_dinamicna\\views\\registracija\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\dinamicno\\naloga1_dinamicna\\naloga1_dinamicna\\views\\registracija\\korak3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|solutionrelative:naloga1_dinamicna\\views\\registracija\\korak3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\dinamicno\\naloga1_dinamicna\\naloga1_dinamicna\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|solutionrelative:naloga1_dinamicna\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\dinamicno\\naloga1_dinamicna\\naloga1_dinamicna\\views\\registracija\\korak1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|solutionrelative:naloga1_dinamicna\\views\\registracija\\korak1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\dinamicno\\naloga1_dinamicna\\naloga1_dinamicna\\views\\shared\\displaytemplates\\int32.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|solutionrelative:naloga1_dinamicna\\views\\shared\\displaytemplates\\int32.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\dinamicno\\naloga1_dinamicna\\naloga1_dinamicna\\views\\shared\\editortemplates\\registracijaviewmodel.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|solutionrelative:naloga1_dinamicna\\views\\shared\\editortemplates\\registracijaviewmodel.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\dinamicno\\naloga1_dinamicna\\naloga1_dinamicna\\views\\shared\\displaytemplates\\datetime.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|solutionrelative:naloga1_dinamicna\\views\\shared\\displaytemplates\\datetime.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\dinamicno\\naloga1_dinamicna\\naloga1_dinamicna\\views\\shared\\displaytemplates\\double.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|solutionrelative:naloga1_dinamicna\\views\\shared\\displaytemplates\\double.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\dinamicno\\naloga1_dinamicna\\naloga1_dinamicna\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|solutionrelative:naloga1_dinamicna\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\dinamicno\\naloga1_dinamicna\\naloga1_dinamicna\\views\\shared\\editortemplates\\datetime.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|solutionrelative:naloga1_dinamicna\\views\\shared\\editortemplates\\datetime.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\dinamicno\\naloga1_dinamicna\\naloga1_dinamicna\\views\\shared\\editortemplates\\datetime.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|solutionrelative:naloga1_dinamicna\\views\\shared\\editortemplates\\datetime.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\dinamicno\\naloga1_dinamicna\\naloga1_dinamicna\\views\\shared\\editortemplates\\int32.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|solutionrelative:naloga1_dinamicna\\views\\shared\\editortemplates\\int32.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\dinamicno\\naloga1_dinamicna\\naloga1_dinamicna\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|solutionrelative:naloga1_dinamicna\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\dinamicno\\naloga1_dinamicna\\naloga1_dinamicna\\views\\leti\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|solutionrelative:naloga1_dinamicna\\views\\leti\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\dinamicno\\naloga1_dinamicna\\naloga1_dinamicna\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|solutionrelative:naloga1_dinamicna\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\dinamicno\\naloga1_dinamicna\\naloga1_dinamicna\\views\\registracija\\korak2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|solutionrelative:naloga1_dinamicna\\views\\registracija\\korak2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\dinamicno\\naloga1_dinamicna\\naloga1_dinamicna\\views\\registracija\\potrditev.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -51,36 +183,8 @@
       "RelativeMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|solutionrelative:naloga1_dinamicna\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\dinamicno\\naloga1_dinamicna\\naloga1_dinamicna\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|solutionrelative:naloga1_dinamicna\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\dinamicno\\naloga1_dinamicna\\naloga1_dinamicna\\controllers\\leticontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|solutionrelative:naloga1_dinamicna\\controllers\\leticontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\dinamicno\\naloga1_dinamicna\\naloga1_dinamicna\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|solutionrelative:naloga1_dinamicna\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\dinamicno\\naloga1_dinamicna\\naloga1_dinamicna\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|solutionrelative:naloga1_dinamicna\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\dinamicno\\naloga1_dinamicna\\naloga1_dinamicna\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|solutionrelative:naloga1_dinamicna\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\dinamicno\\naloga1_dinamicna\\naloga1_dinamicna\\controllers\\potnikicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|solutionrelative:naloga1_dinamicna\\controllers\\potnikicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\dinamicno\\naloga1_dinamicna\\naloga1_dinamicna\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|solutionrelative:naloga1_dinamicna\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\dinamicno\\naloga1_dinamicna\\naloga1_dinamicna\\views\\leti\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|solutionrelative:naloga1_dinamicna\\views\\leti\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\dinamicno\\naloga1_dinamicna\\naloga1_dinamicna\\models\\potnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -89,14 +193,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\dinamicno\\naloga1_dinamicna\\naloga1_dinamicna\\models\\let.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|solutionrelative:naloga1_dinamicna\\models\\let.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\dinamicno\\naloga1_dinamicna\\naloga1_dinamicna\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|solutionrelative:naloga1_dinamicna\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\dinamicno\\naloga1_dinamicna\\naloga1_dinamicna\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9615FEAB-3200-48D5-99A7-C86F74E3E48F}|Naloga1_Dinamicna\\Naloga1_Dinamicna.csproj|solutionrelative:naloga1_dinamicna\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -106,7 +202,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -114,94 +210,222 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Korak3.cshtml",
-              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Registracija\\Korak3.cshtml",
-              "RelativeDocumentMoniker": "Naloga1_Dinamicna\\Views\\Registracija\\Korak3.cshtml",
-              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Registracija\\Korak3.cshtml",
-              "RelativeToolTip": "Naloga1_Dinamicna\\Views\\Registracija\\Korak3.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-03T12:17:05.87Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Korak1.cshtml",
-              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Registracija\\Korak1.cshtml",
-              "RelativeDocumentMoniker": "Naloga1_Dinamicna\\Views\\Registracija\\Korak1.cshtml",
-              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Registracija\\Korak1.cshtml",
-              "RelativeToolTip": "Naloga1_Dinamicna\\Views\\Registracija\\Korak1.cshtml",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwDYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-03T12:00:22.325Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RegistracijaController.cs",
-              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Controllers\\RegistracijaController.cs",
-              "RelativeDocumentMoniker": "Naloga1_Dinamicna\\Controllers\\RegistracijaController.cs",
-              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Controllers\\RegistracijaController.cs",
-              "RelativeToolTip": "Naloga1_Dinamicna\\Controllers\\RegistracijaController.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAA0wGMAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-03T11:54:47.312Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "RegistracijaViewModel.cs",
               "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Models\\RegistracijaViewModel.cs",
               "RelativeDocumentMoniker": "Naloga1_Dinamicna\\Models\\RegistracijaViewModel.cs",
               "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Models\\RegistracijaViewModel.cs",
               "RelativeToolTip": "Naloga1_Dinamicna\\Models\\RegistracijaViewModel.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA4wA4AAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-03T11:50:10.321Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "index.cshtml",
-              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Potniki\\index.cshtml",
-              "RelativeDocumentMoniker": "Naloga1_Dinamicna\\Views\\Potniki\\index.cshtml",
-              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Potniki\\index.cshtml",
-              "RelativeToolTip": "Naloga1_Dinamicna\\Views\\Potniki\\index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-10T13:08:37.753Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Rezervacija.cs",
-              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Models\\Rezervacija.cs",
-              "RelativeDocumentMoniker": "Naloga1_Dinamicna\\Models\\Rezervacija.cs",
-              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Models\\Rezervacija.cs",
-              "RelativeToolTip": "Naloga1_Dinamicna\\Models\\Rezervacija.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T13:07:18.531Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-03T11:50:10.321Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "index.cshtml",
-              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Rezervacije\\index.cshtml",
-              "RelativeDocumentMoniker": "Naloga1_Dinamicna\\Views\\Rezervacije\\index.cshtml",
-              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Rezervacije\\index.cshtml",
-              "RelativeToolTip": "Naloga1_Dinamicna\\Views\\Rezervacije\\index.cshtml",
-              "ViewState": "AgIAABQAAAAAAAAAAAAIwCsAAAAAAAAAAAAAAA==",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Naloga1_Dinamicna\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Naloga1_Dinamicna\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAgwC4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-26T13:31:13.968Z",
+              "WhenOpened": "2026-04-02T11:13:36.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegistracijaController.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Controllers\\RegistracijaController.cs",
+              "RelativeDocumentMoniker": "Naloga1_Dinamicna\\Controllers\\RegistracijaController.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Controllers\\RegistracijaController.cs",
+              "RelativeToolTip": "Naloga1_Dinamicna\\Controllers\\RegistracijaController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwF8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T11:54:47.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IzdelekController.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Controllers\\IzdelekController.cs",
+              "RelativeDocumentMoniker": "Naloga1_Dinamicna\\Controllers\\IzdelekController.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Controllers\\IzdelekController.cs",
+              "RelativeToolTip": "Naloga1_Dinamicna\\Controllers\\IzdelekController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAApwCcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T14:03:12.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PotnikiController.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Controllers\\PotnikiController.cs",
+              "RelativeDocumentMoniker": "Naloga1_Dinamicna\\Controllers\\PotnikiController.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Controllers\\PotnikiController.cs",
+              "RelativeToolTip": "Naloga1_Dinamicna\\Controllers\\PotnikiController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T13:05:16.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Naloga1_Dinamicna\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Naloga1_Dinamicna\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T13:29:52.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Izdelek\\Index.cshtml",
+              "RelativeDocumentMoniker": "Naloga1_Dinamicna\\Views\\Izdelek\\Index.cshtml",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Izdelek\\Index.cshtml",
+              "RelativeToolTip": "Naloga1_Dinamicna\\Views\\Izdelek\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-16T14:05:15.359Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Prikaz.cshtml",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Izdelek\\Prikaz.cshtml",
+              "RelativeDocumentMoniker": "Naloga1_Dinamicna\\Views\\Izdelek\\Prikaz.cshtml",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Izdelek\\Prikaz.cshtml",
+              "RelativeToolTip": "Naloga1_Dinamicna\\Views\\Izdelek\\Prikaz.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-16T14:05:55.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Seznam.cshtml",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Izdelek\\Seznam.cshtml",
+              "RelativeDocumentMoniker": "Naloga1_Dinamicna\\Views\\Izdelek\\Seznam.cshtml",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Izdelek\\Seznam.cshtml",
+              "RelativeToolTip": "Naloga1_Dinamicna\\Views\\Izdelek\\Seznam.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T13:48:09.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Int32.cshtml",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Shared\\EditorTemplates\\Int32.cshtml",
+              "RelativeDocumentMoniker": "Naloga1_Dinamicna\\Views\\Shared\\EditorTemplates\\Int32.cshtml",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Shared\\EditorTemplates\\Int32.cshtml",
+              "RelativeToolTip": "Naloga1_Dinamicna\\Views\\Shared\\EditorTemplates\\Int32.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-16T11:05:32.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Naloga1_Dinamicna\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Naloga1_Dinamicna\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T13:26:04.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\appsettings.json",
+              "RelativeDocumentMoniker": "Naloga1_Dinamicna\\appsettings.json",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\appsettings.json",
+              "RelativeToolTip": "Naloga1_Dinamicna\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-21T13:27:02.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Program.cs",
+              "RelativeDocumentMoniker": "Naloga1_Dinamicna\\Program.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Program.cs",
+              "RelativeToolTip": "Naloga1_Dinamicna\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T13:27:42.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20260421134030_InicialnaBaza.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Migrations\\20260421134030_InicialnaBaza.cs",
+              "RelativeDocumentMoniker": "Naloga1_Dinamicna\\Migrations\\20260421134030_InicialnaBaza.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Migrations\\20260421134030_InicialnaBaza.cs",
+              "RelativeToolTip": "Naloga1_Dinamicna\\Migrations\\20260421134030_InicialnaBaza.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T13:40:31.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Seznam.cshtml",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Registracija\\Seznam.cshtml",
+              "RelativeDocumentMoniker": "Naloga1_Dinamicna\\Views\\Registracija\\Seznam.cshtml",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Registracija\\Seznam.cshtml",
+              "RelativeToolTip": "Naloga1_Dinamicna\\Views\\Registracija\\Seznam.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T13:43:39.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Naloga1_Dinamicna\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Naloga1_Dinamicna\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-26T13:28:50.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IzdelekViewModel.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Models\\IzdelekViewModel.cs",
+              "RelativeDocumentMoniker": "Naloga1_Dinamicna\\Models\\IzdelekViewModel.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Models\\IzdelekViewModel.cs",
+              "RelativeToolTip": "Naloga1_Dinamicna\\Models\\IzdelekViewModel.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T13:39:35.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Naloga1_Dinamicna\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Naloga1_Dinamicna\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T13:28:35.809Z"
             },
             {
               "$type": "Document",
@@ -213,142 +437,47 @@
               "RelativeToolTip": "Naloga1_Dinamicna\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-26T13:29:36.812Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Naloga1_Dinamicna\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Naloga1_Dinamicna\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-26T13:29:37.778Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Naloga1_Dinamicna\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Naloga1_Dinamicna\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-26T13:28:50.816Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "index.cshtml",
-              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Leti\\index.cshtml",
-              "RelativeDocumentMoniker": "Naloga1_Dinamicna\\Views\\Leti\\index.cshtml",
-              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Leti\\index.cshtml",
-              "RelativeToolTip": "Naloga1_Dinamicna\\Views\\Leti\\index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-26T13:41:52.699Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "site.js",
-              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\wwwroot\\js\\site.js",
-              "RelativeDocumentMoniker": "Naloga1_Dinamicna\\wwwroot\\js\\site.js",
-              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\wwwroot\\js\\site.js",
-              "RelativeToolTip": "Naloga1_Dinamicna\\wwwroot\\js\\site.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-03-11T09:28:04.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T13:29:36.812Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "Naloga1_Dinamicna\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "Naloga1_Dinamicna\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAA8AAAAAAAAAAIBJwC8AAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-03-10T13:48:40.483Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "PotnikiController.cs",
-              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Controllers\\PotnikiController.cs",
-              "RelativeDocumentMoniker": "Naloga1_Dinamicna\\Controllers\\PotnikiController.cs",
-              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Controllers\\PotnikiController.cs",
-              "RelativeToolTip": "Naloga1_Dinamicna\\Controllers\\PotnikiController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBAAAAAUAAAAAAAAAA==",
+              "Title": "EmsoAttribute.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Models\\EmsoAttribute.cs",
+              "RelativeDocumentMoniker": "Naloga1_Dinamicna\\Models\\EmsoAttribute.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Models\\EmsoAttribute.cs",
+              "RelativeToolTip": "Naloga1_Dinamicna\\Models\\EmsoAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T13:05:16.127Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-16T13:37:36.964Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Naloga1_Dinamicna\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Naloga1_Dinamicna\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAowCwAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-02T11:13:36.216Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 21,
               "Title": "RezervacijeController.cs",
               "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Controllers\\RezervacijeController.cs",
               "RelativeDocumentMoniker": "Naloga1_Dinamicna\\Controllers\\RezervacijeController.cs",
               "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Controllers\\RezervacijeController.cs",
               "RelativeToolTip": "Naloga1_Dinamicna\\Controllers\\RezervacijeController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAmwEEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAD4AAAAAAAAAAIBJwEEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T13:05:57.767Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-10T13:05:57.767Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Potrditev.cshtml",
-              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Registracija\\Potrditev.cshtml",
-              "RelativeDocumentMoniker": "Naloga1_Dinamicna\\Views\\Registracija\\Potrditev.cshtml",
-              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Registracija\\Potrditev.cshtml",
-              "RelativeToolTip": "Naloga1_Dinamicna\\Views\\Registracija\\Potrditev.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAGAAAAAAAAAA==",
+              "DocumentIndex": 22,
+              "Title": "RegistracijaViewModel.cshtml",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Shared\\DisplayTemplates\\RegistracijaViewModel.cshtml",
+              "RelativeDocumentMoniker": "Naloga1_Dinamicna\\Views\\Shared\\DisplayTemplates\\RegistracijaViewModel.cshtml",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Shared\\DisplayTemplates\\RegistracijaViewModel.cshtml",
+              "RelativeToolTip": "Naloga1_Dinamicna\\Views\\Shared\\DisplayTemplates\\RegistracijaViewModel.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-03T12:17:32.768Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-16T11:31:14.088Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Korak2.cshtml",
-              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Registracija\\Korak2.cshtml",
-              "RelativeDocumentMoniker": "Naloga1_Dinamicna\\Views\\Registracija\\Korak2.cshtml",
-              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Registracija\\Korak2.cshtml",
-              "RelativeToolTip": "Naloga1_Dinamicna\\Views\\Registracija\\Korak2.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-03T12:19:23.153Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "LetiController.cs",
               "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Controllers\\LetiController.cs",
               "RelativeDocumentMoniker": "Naloga1_Dinamicna\\Controllers\\LetiController.cs",
@@ -356,51 +485,191 @@
               "RelativeToolTip": "Naloga1_Dinamicna\\Controllers\\LetiController.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwBUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T13:05:35.55Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-10T13:05:35.55Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Naloga1_Dinamicna\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Naloga1_Dinamicna\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 23,
+              "Title": "RegistracijaViewModel.cshtml",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Shared\\EditorTemplates\\RegistracijaViewModel.cshtml",
+              "RelativeDocumentMoniker": "Naloga1_Dinamicna\\Views\\Shared\\EditorTemplates\\RegistracijaViewModel.cshtml",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Shared\\EditorTemplates\\RegistracijaViewModel.cshtml",
+              "RelativeToolTip": "Naloga1_Dinamicna\\Views\\Shared\\EditorTemplates\\RegistracijaViewModel.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-16T11:31:00.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Prikaz.cshtml",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Registracija\\Prikaz.cshtml",
+              "RelativeDocumentMoniker": "Naloga1_Dinamicna\\Views\\Registracija\\Prikaz.cshtml",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Registracija\\Prikaz.cshtml",
+              "RelativeToolTip": "Naloga1_Dinamicna\\Views\\Registracija\\Prikaz.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-16T13:56:24.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Registracija\\Index.cshtml",
+              "RelativeDocumentMoniker": "Naloga1_Dinamicna\\Views\\Registracija\\Index.cshtml",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Registracija\\Index.cshtml",
+              "RelativeToolTip": "Naloga1_Dinamicna\\Views\\Registracija\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-16T11:38:45.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Korak1.cshtml",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Registracija\\Korak1.cshtml",
+              "RelativeDocumentMoniker": "Naloga1_Dinamicna\\Views\\Registracija\\Korak1.cshtml",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Registracija\\Korak1.cshtml",
+              "RelativeToolTip": "Naloga1_Dinamicna\\Views\\Registracija\\Korak1.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-03T12:00:22.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Int32.cshtml",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Shared\\DisplayTemplates\\Int32.cshtml",
+              "RelativeDocumentMoniker": "Naloga1_Dinamicna\\Views\\Shared\\DisplayTemplates\\Int32.cshtml",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Shared\\DisplayTemplates\\Int32.cshtml",
+              "RelativeToolTip": "Naloga1_Dinamicna\\Views\\Shared\\DisplayTemplates\\Int32.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-16T11:28:45.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Korak3.cshtml",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Registracija\\Korak3.cshtml",
+              "RelativeDocumentMoniker": "Naloga1_Dinamicna\\Views\\Registracija\\Korak3.cshtml",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Registracija\\Korak3.cshtml",
+              "RelativeToolTip": "Naloga1_Dinamicna\\Views\\Registracija\\Korak3.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-03T12:17:05.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RegistracijaViewModel.cshtml.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Shared\\EditorTemplates\\RegistracijaViewModel.cshtml.cs",
+              "RelativeDocumentMoniker": "Naloga1_Dinamicna\\Views\\Shared\\EditorTemplates\\RegistracijaViewModel.cshtml.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Shared\\EditorTemplates\\RegistracijaViewModel.cshtml.cs",
+              "RelativeToolTip": "Naloga1_Dinamicna\\Views\\Shared\\EditorTemplates\\RegistracijaViewModel.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T13:28:35.809Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-16T11:31:23.251Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Potnik.cs",
-              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Models\\Potnik.cs",
-              "RelativeDocumentMoniker": "Naloga1_Dinamicna\\Models\\Potnik.cs",
-              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Models\\Potnik.cs",
-              "RelativeToolTip": "Naloga1_Dinamicna\\Models\\Potnik.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "DocumentIndex": 30,
+              "Title": "DateTime.cshtml",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Shared\\DisplayTemplates\\DateTime.cshtml",
+              "RelativeDocumentMoniker": "Naloga1_Dinamicna\\Views\\Shared\\DisplayTemplates\\DateTime.cshtml",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Shared\\DisplayTemplates\\DateTime.cshtml",
+              "RelativeToolTip": "Naloga1_Dinamicna\\Views\\Shared\\DisplayTemplates\\DateTime.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-16T11:29:34.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Double.cshtml",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Shared\\DisplayTemplates\\Double.cshtml",
+              "RelativeDocumentMoniker": "Naloga1_Dinamicna\\Views\\Shared\\DisplayTemplates\\Double.cshtml",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Shared\\DisplayTemplates\\Double.cshtml",
+              "RelativeToolTip": "Naloga1_Dinamicna\\Views\\Shared\\DisplayTemplates\\Double.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-16T11:29:16.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DateTime.cshtml.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Shared\\EditorTemplates\\DateTime.cshtml.cs",
+              "RelativeDocumentMoniker": "Naloga1_Dinamicna\\Views\\Shared\\EditorTemplates\\DateTime.cshtml.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Shared\\EditorTemplates\\DateTime.cshtml.cs",
+              "RelativeToolTip": "Naloga1_Dinamicna\\Views\\Shared\\EditorTemplates\\DateTime.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T13:06:52.231Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-16T11:21:00.307Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Let.cs",
-              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Models\\Let.cs",
-              "RelativeDocumentMoniker": "Naloga1_Dinamicna\\Models\\Let.cs",
-              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Models\\Let.cs",
-              "RelativeToolTip": "Naloga1_Dinamicna\\Models\\Let.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "DocumentIndex": 37,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Leti\\index.cshtml",
+              "RelativeDocumentMoniker": "Naloga1_Dinamicna\\Views\\Leti\\index.cshtml",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Leti\\index.cshtml",
+              "RelativeToolTip": "Naloga1_Dinamicna\\Views\\Leti\\index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwCQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-26T13:41:52.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Int32.cshtml.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Shared\\EditorTemplates\\Int32.cshtml.cs",
+              "RelativeDocumentMoniker": "Naloga1_Dinamicna\\Views\\Shared\\EditorTemplates\\Int32.cshtml.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Shared\\EditorTemplates\\Int32.cshtml.cs",
+              "RelativeToolTip": "Naloga1_Dinamicna\\Views\\Shared\\EditorTemplates\\Int32.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T13:07:03.576Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-16T11:16:21.361Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 33,
+              "Title": "DateTime.cshtml",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Shared\\EditorTemplates\\DateTime.cshtml",
+              "RelativeDocumentMoniker": "Naloga1_Dinamicna\\Views\\Shared\\EditorTemplates\\DateTime.cshtml",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Shared\\EditorTemplates\\DateTime.cshtml",
+              "RelativeToolTip": "Naloga1_Dinamicna\\Views\\Shared\\EditorTemplates\\DateTime.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-16T11:12:06.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "Naloga1_Dinamicna\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "Naloga1_Dinamicna\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAB4AAAAAAAAAAIBJwCwAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-11T09:28:04.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Naloga1_Dinamicna\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Naloga1_Dinamicna\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-16T11:20:45.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Naloga1_Dinamicna\\Views\\Home\\Privacy.cshtml",
@@ -408,21 +677,115 @@
               "RelativeToolTip": "Naloga1_Dinamicna\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-26T13:29:26.795Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T13:29:26.795Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Naloga1_Dinamicna\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Naloga1_Dinamicna\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 39,
+              "Title": "Korak2.cshtml",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Registracija\\Korak2.cshtml",
+              "RelativeDocumentMoniker": "Naloga1_Dinamicna\\Views\\Registracija\\Korak2.cshtml",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Registracija\\Korak2.cshtml",
+              "RelativeToolTip": "Naloga1_Dinamicna\\Views\\Registracija\\Korak2.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-03T12:19:23.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Rezervacije\\index.cshtml",
+              "RelativeDocumentMoniker": "Naloga1_Dinamicna\\Views\\Rezervacije\\index.cshtml",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Rezervacije\\index.cshtml",
+              "RelativeToolTip": "Naloga1_Dinamicna\\Views\\Rezervacije\\index.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-26T13:31:13.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Rezervacija.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Models\\Rezervacija.cs",
+              "RelativeDocumentMoniker": "Naloga1_Dinamicna\\Models\\Rezervacija.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Models\\Rezervacija.cs",
+              "RelativeToolTip": "Naloga1_Dinamicna\\Models\\Rezervacija.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T13:29:52.625Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-10T13:07:18.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Potniki\\index.cshtml",
+              "RelativeDocumentMoniker": "Naloga1_Dinamicna\\Views\\Potniki\\index.cshtml",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Potniki\\index.cshtml",
+              "RelativeToolTip": "Naloga1_Dinamicna\\Views\\Potniki\\index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-10T13:08:37.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Naloga1_Dinamicna\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Naloga1_Dinamicna\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-26T13:29:37.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Naloga1_Dinamicna\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Naloga1_Dinamicna\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAwAAAAAAAAAAIBZwC8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-03-10T13:48:40.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Potrditev.cshtml",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Registracija\\Potrditev.cshtml",
+              "RelativeDocumentMoniker": "Naloga1_Dinamicna\\Views\\Registracija\\Potrditev.cshtml",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Views\\Registracija\\Potrditev.cshtml",
+              "RelativeToolTip": "Naloga1_Dinamicna\\Views\\Registracija\\Potrditev.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-03T12:17:32.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Potnik.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Models\\Potnik.cs",
+              "RelativeDocumentMoniker": "Naloga1_Dinamicna\\Models\\Potnik.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Models\\Potnik.cs",
+              "RelativeToolTip": "Naloga1_Dinamicna\\Models\\Potnik.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T13:06:52.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Let.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Models\\Let.cs",
+              "RelativeDocumentMoniker": "Naloga1_Dinamicna\\Models\\Let.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Dinamicno\\Naloga1_Dinamicna\\Naloga1_Dinamicna\\Models\\Let.cs",
+              "RelativeToolTip": "Naloga1_Dinamicna\\Models\\Let.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T13:07:03.576Z"
             }
           ]
         }

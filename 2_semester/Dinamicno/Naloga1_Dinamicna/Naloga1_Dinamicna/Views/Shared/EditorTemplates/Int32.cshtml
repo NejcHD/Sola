@@ -1,0 +1,31 @@
+﻿@model Int32?    // program se sprozi za int32 sprejme celo st.   CIlje je da zmeri ko vidis stevilo naredi slajder
+
+@* KOMENTAR: Ta datoteka povozi privzet izgled za vse Integerje v projektu. 
+   Html.IdForModel() generira ID, ki ga JS potrebuje za povezavo s sliderjem. *@
+
+@{
+	// Ročno ustvarimo varen ID, ki ga bo JavaScript prepoznal
+	var fieldId = Html.IdForModel();
+}
+
+
+
+<div class="slider-container my-3">
+	<label class="form-label">@ViewData.ModelMetadata.DisplayName</label>  <!-- ispise ime spremenljivke -->
+
+	<div class="row align-items-center">
+		<div class="col-9">
+			<div class="slider-control"
+				 data-min="0"
+				 data-max="100"
+				 data-target="#@fieldId"></div>
+		</div>
+		<!-- min max uporabimo za slider kasneje -->
+	</div>
+
+	<div class="col-3">
+		<input asp-for="@Model" type="number" class="form-control slider-value" readonly />  <!-- readonly naredi da nemore pisat stevilk samo z sliderjem se menjajo -->
+	</div>
+
+	<span asp-validation-for="@Model"  class="text-danger"></span>
+</div> 

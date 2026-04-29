@@ -30,3 +30,28 @@ window.onload = function(){
 $(document).ready(function () {
     $("#moj-harmonika").accordion();
 });
+
+
+$(function () {
+    // Aktiviraj vse koledarje
+    $(".datepicker-control").datepicker({
+        dateFormat: "dd.mm.yy"
+    });
+
+    // Aktiviraj vse sliderje
+    $(".slider-control").each(function () {
+        var min = $(this).data("min");
+        var max = $(this).data("max");
+        var target = $(this).data("target");  // v zivo gre skozi vse funkcije v datetime
+
+        $(this).slider({
+            range: "min",
+            value: $(target).val() || min,
+            min: min,
+            max: max,
+            slide: function (event, ui) {
+                $(target).val(ui.value);
+            }
+        });
+    });
+});

@@ -1,0 +1,14 @@
+﻿@model Naloga1_Dinamicna.Models.RegistracijaViewModel
+
+<div class="container mt-4">
+    <h2>Povzetek podatkov (DisplayForModel)</h2>
+    <hr />
+
+    <div class="card shadow-sm p-4 bg-white">
+        @Html.DisplayForModel()
+    </div>
+
+    <div class="mt-4">
+        <a asp-action="Index" class="btn btn-secondary">Nazaj na urejanje</a>
+    </div>
+</div>

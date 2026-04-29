@@ -1,0 +1,24 @@
+﻿@model Naloga1_Dinamicna.Models.RegistracijaViewModel
+
+<div class="container mt-4">
+    <h2>Registracija z uporabo EditorForModel</h2>
+    <hr />
+
+    <form asp-action="Index" method="post">
+        @Html.AntiForgeryToken()
+
+        <div class="form-horizontal">
+            @Html.EditorForModel()
+        </div>
+
+        <div class="form-group mt-3">
+            <button type="submit" class="btn btn-primary">Pošlji na predogled</button>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

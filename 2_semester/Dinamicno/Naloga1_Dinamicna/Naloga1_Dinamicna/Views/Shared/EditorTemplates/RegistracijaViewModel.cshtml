@@ -1,0 +1,21 @@
+﻿@model object
+
+@{
+    // Pridobimo vse lastnosti modela    Ta metoda je za zapisovat  oz registracija
+    var properties = ViewData.ModelMetadata.Properties.Where(p => p.ShowForEdit);
+}
+
+<div class="row">
+    @foreach (var prop in properties)
+    {
+        <div class="col-md-12 mb-3 border-bottom pb-2">
+            <label class="form-label fw-bold d-block text-primary">
+                @(prop.DisplayName ?? prop.PropertyName)
+            </label>
+
+            @Html.Editor(prop.PropertyName)
+
+            @Html.ValidationMessage(prop.PropertyName, "", new { @class = "text-danger" })
+        </div>
+    }
+</div>

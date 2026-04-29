@@ -1,0 +1,140 @@
+﻿@model IEnumerable<RanljivostiSpletneStrani.Models.User>
+
+<h1 class="text-danger text-center">RANLJIVA STRAN </h1>
+<p class="text-center text-muted">Stran z namerno vgrajenimi varnostnimi luknjami.</p>
+<hr />
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-6 mb-4">
+            <div class="card border-danger h-100 shadow-sm">
+                <div class="card-header bg-danger text-white fw-bold">1. SQL Injection (A03:2021)</div>
+                <div class="card-body text-center">
+                    <p class="small text-muted">Vnesi <code>' OR 1=1 --</code></p>
+                    <form asp-action="SqlInjection" method="post">
+                        <input type="text" name="username" class="form-control mb-2" placeholder="Uporabniško ime" />
+                        <button type="submit" class="btn btn-danger btn-sm w-100">Izvedi SQLi</button>
+                    </form>
+                    @if (ViewBag.LastQuery != null)
+                    {
+                        <div class="mt-2 small text-truncate"><code>@ViewBag.LastQuery</code></div>
+                    }
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-6 mb-4">
+            <div class="card border-danger h-100 shadow-sm">
+                <div class="card-header bg-danger text-white fw-bold">2. XSS (A03:2021)</div>
+                <div class="card-body text-center">
+                    <p class="small text-muted">Vnesi <code>&lt;script&gt;alert('XSS')&lt;/script&gt;</code></p>
+                    <form asp-action="Xss" method="get">
+                        <input type="text" name="name" class="form-control mb-2" placeholder="Tvoje ime" />
+                        <button type="submit" class="btn btn-danger btn-sm w-100">Izvedi XSS</button>
+                    </form>
+                    @if (ViewBag.UserName != null)
+                    {
+                        <div class="alert alert-secondary mt-2 p-1 small">@Html.Raw(ViewBag.UserName)</div>
+                    }
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-6 mb-4">
+            <div class="card border-danger h-100 shadow-sm">
+                <div class="card-header bg-danger text-white fw-bold">3. Broken Access Control (A01:2021)</div>
+                <div class="card-body text-center d-flex flex-column justify-content-center">
+                    <p class="small">Ugibanje ID-ja v URL-ju:</p>
+                    <a href="/Vulnerable/UserProfile/1" class="btn btn-outline-danger btn-sm mb-2">Profil ID: 1</a>
+                    <a href="/Vulnerable/UserProfile/2" class="btn btn-outline-danger btn-sm">Profil ID: 2</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-6 mb-4">
+            <div class="card border-danger h-100 shadow-sm">
+                <div class="card-header bg-danger text-white fw-bold">4. Cryptographic Failures (A02:2021)</div>
+                <div class="card-body text-center d-flex flex-column justify-content-center">
+                    <p class="small">Podatki so v bazi v čistem besedilu.</p>
+                    <a href="/Vulnerable/ShowPasswords" class="btn btn-danger btn-sm">Pokaži vsa gesla</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-6 mb-4">
+            <div class="card border-danger h-100 shadow-sm">
+                <div class="card-header bg-danger text-white fw-bold">5. Security Misconfiguration (A05:2021)</div>
+                <div class="card-body text-center d-flex flex-column justify-content-center">
+                    <p class="small">Razkritje sistemskih poti napadalcu.</p>
+                    <a href="/Vulnerable/CouseEroor" class="btn btn-danger btn-sm">Sproži Stack Trace</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-6 mb-4">
+            <div class="card border-danger h-100 shadow-sm">
+                <div class="card-header bg-danger text-white fw-bold">6. Auth Failures (A07:2021)</div>
+                <div class="card-body text-center">
+                    <p class="small text-muted">Dovoljuje geslo <code>1</code></p>
+                    <form asp-action="ChangePassword" method="post">
+                        <input type="text" name="newPassword" class="form-control mb-2" placeholder="Novo geslo" />
+                        <button type="submit" class="btn btn-danger btn-sm w-100">Spremeni</button>
+                    </form>
+                    <small class="text-danger">@ViewBag.PassMsg</small>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-6 mb-4">
+            <div class="card border-danger h-100 shadow-sm">
+                <div class="card-header bg-danger text-white fw-bold">7. Directory Traversal (A01:2021)</div>
+                <div class="card-body text-center">
+                    <p class="small text-muted">Vnesi <code>../appsettings.json</code></p>
+                    <form asp-action="ReadFile" method="get">
+                        <input type="text" name="filename" class="form-control mb-2" placeholder="Ime datoteke" />
+                        <button type="submit" class="btn btn-danger btn-sm w-100">Preberi datoteko</button>
+                    </form>
+                    @if (ViewBag.FileContent != null)
+                    {
+                        <pre class="mt-2 bg-dark text-success p-2 small text-start" style="font-size: 10px;">@ViewBag.FileContent</pre>
+                    }
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-6 mb-4">
+            <div class="card border-danger h-100 shadow-sm">
+                <div class="card-header bg-danger text-white fw-bold">8. SSRF (A10:2021)</div>
+                <div class="card-body text-center">
+                    <p class="small text-muted">Npr. <code>http://google.com</code></p>
+                    <form asp-action="Proxy" method="get">
+                        <input type="text" name="url" class="form-control mb-2" placeholder="URL naslov" />
+                        <button type="submit" class="btn btn-danger btn-sm w-100">Naloži preko strežnika</button>
+                    </form>
+                    @if (ViewBag.ProxyContent != null)
+                    {
+                        <div class="mt-3 p-2 bg-light border" style="max-height: 300px; overflow: auto;">
+                            <pre>@ViewBag.ProxyContent</pre>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <h3 class="text-danger mt-4">Kritični podatki v bazi</h3>
+    <table class="table table-sm table-bordered table-hover shadow-sm">
+        <thead class="table-danger">
+            <tr><th>Uporabnik</th><th>Geslo (Plaintext)</th><th>Kartica</th></tr>
+        </thead>
+        <tbody>
+            @if (Model != null)
+            {
+                foreach (var user in Model)
+                {
+                    <tr><td>@user.Username</td><td class="text-danger fw-bold">@user.Password</td><td>@user.CreditCard</td></tr>
+                }
+            }
+        </tbody>
+    </table>
+</div>

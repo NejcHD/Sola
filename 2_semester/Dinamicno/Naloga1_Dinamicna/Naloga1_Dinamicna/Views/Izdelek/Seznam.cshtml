@@ -1,0 +1,31 @@
+﻿@model IEnumerable<Naloga1_Dinamicna.Models.IzdelekViewModel>
+
+<div class="container mt-4">
+    <h2>Spletna trgovina - Seznam izdelkov</h2>
+    <a asp-action="Index" class="btn btn-primary mb-3">Dodaj nov izdelek</a>
+
+    <table class="table table-striped table-hover border">
+        <thead class="table-dark">
+            <tr>
+                <th>Naziv</th>
+                <th>Količina</th>
+                <th>Cena</th>
+                <th>Akcije</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Naziv</td>
+                    <td>@item.Kolicina</td>
+                    <td>@item.Cena €</td>
+                    <td>
+                        <a asp-action="Uredi" asp-route-id="@item.Id" class="btn btn-sm btn-warning">Uredi</a>
+                        <a asp-action="Izbrisi" asp-route-id="@item.Id" class="btn btn-sm btn-danger" onclick="return confirm('Izbrišem izdelek?')">Briši</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

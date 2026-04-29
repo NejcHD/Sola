@@ -1,0 +1,55 @@
+﻿<Window x:Class="ZgoščevalneFunkcije.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Zgoščevalnik &amp; Gesla" Height="500" Width="600">
+    <Grid Margin="10">
+        <TabControl>
+            <TabItem Header="Zgoščevanje datotek 📄">
+                <StackPanel Margin="10">
+                    <TextBlock Text="Prva datoteka:" FontWeight="Bold" Margin="0,0,0,5"/>
+                    <DockPanel LastChildFill="True" Margin="0,0,0,10">
+                        <Button Content="Prebrskaj..." Click="BtnBrowse_Click" Width="80" DockPanel.Dock="Right"/>
+                        <TextBox x:Name="TxtFilePath" IsReadOnly="True" Margin="0,0,5,0"/>
+                    </DockPanel>
+
+                    <TextBlock Text="Druga datoteka (za primerjavo):" FontWeight="Bold" Margin="0,0,0,5"/>
+                    <DockPanel LastChildFill="True" Margin="0,0,0,10">
+                        <Button Content="Prebrskaj..." Click="BtnBrowse2_Click" Width="80" DockPanel.Dock="Right"/>
+                        <TextBox x:Name="TxtFilePath2" IsReadOnly="True" Margin="0,0,5,0"/>
+                    </DockPanel>
+
+                    <TextBlock Text="Algoritem:" FontWeight="Bold" Margin="0,0,0,5"/>
+                    <ComboBox x:Name="ComboAlgo" SelectedIndex="0" Margin="0,0,0,10">
+                        <ComboBoxItem Content="SHA-256"/>
+                        <ComboBoxItem Content="SHA-512"/>
+                        <ComboBoxItem Content="SHA-3 (256-bit)"/>
+                    </ComboBox>
+
+                    <UniformGrid Columns="2" Margin="0,0,0,10">
+                        <Button Content="Izračunaj Hash" Click="BtnHash_Click" Height="30" Margin="0,0,5,0"/>
+                        <Button Content="Primerjaj datoteki" Click="BtnCompare_Click" Height="30" Margin="5,0,0,0"/>
+                    </UniformGrid>
+
+                    <TextBlock Text="Rezultat:" FontWeight="Bold"/>
+                    <TextBox x:Name="TxtHashResult" TextWrapping="Wrap" Height="60" IsReadOnly="True" Background="#F0F0F0"/>
+                </StackPanel>
+            </TabItem>
+
+            <TabItem Header="Shranjevanje gesel 🔐">
+                <StackPanel Margin="10">
+                    <TextBlock Text="Uporabniško ime:" FontWeight="Bold"/>
+                    <TextBox x:Name="TxtUsername" Margin="0,0,0,10"/>
+
+                    <TextBlock Text="Geslo:" FontWeight="Bold"/>
+                    <PasswordBox x:Name="TxtPassword" Margin="0,0,0,10"/>
+
+                    <Button Content="Registriraj (Argon2 + Salt)" Click="BtnRegister_Click" Height="30" Margin="0,0,0,10"/>
+
+                    <Separator Margin="0,10"/>
+
+                    <Button Content="Preveri prijavo" Click="BtnLogin_Click" Height="30"/>
+                </StackPanel>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>

@@ -1,0 +1,139 @@
+﻿@model IEnumerable<RanljivostiSpletneStrani.Models.User>
+
+<h1 class="text-success text-center">VARNA STRAN </h1>
+<p class="text-center text-muted">Implementacija varnostnih mehanizmov po OWASP standardih.</p>
+<hr />
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-6 mb-4">
+            <div class="card border-success h-100 shadow-sm">
+                <div class="card-header bg-success text-white fw-bold">1. SQL Protection (Parametrizacija)</div>
+                <div class="card-body text-center text-center">
+                    <p class="small text-muted">LINQ poizvedbe so varne.</p>
+                    <form asp-controller="Safe" asp-action="SqlInjection" method="post">
+                        <input type="text" name="username" class="form-control mb-2" placeholder="Iskanje..." />
+                        <button type="submit" class="btn btn-success btn-sm w-100">Išči varno</button>
+                    </form>
+                    @if (ViewBag.LastQuery != null)
+                    {
+                        <div class="mt-2 small"><code>@ViewBag.LastQuery</code></div>
+                    }
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-6 mb-4">
+            <div class="card border-success h-100 shadow-sm">
+                <div class="card-header bg-success text-white fw-bold">2. XSS Protection (Encoding)</div>
+                <div class="card-body text-center">
+                    <p class="small text-muted">Avtomatsko HTML kodiranje.</p>
+                    <form asp-controller="Safe" asp-action="Xss" method="get">
+                        <input type="text" name="name" class="form-control mb-2" placeholder="Tvoje ime" />
+                        <button type="submit" class="btn btn-success btn-sm w-100">Pozdravi varno</button>
+                    </form>
+                    @if (ViewBag.UserName != null)
+                    {
+                        <div class="alert alert-success mt-2 p-1 small">Živijo, @ViewBag.UserName</div>
+                    }
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-6 mb-4">
+            <div class="card border-success h-100 shadow-sm">
+                <div class="card-header bg-success text-white fw-bold">3. Access Control (Avtorizacija)</div>
+                <div class="card-body text-center d-flex flex-column justify-content-center">
+                    <p class="small">Preverjanje pravic na strežniku:</p>
+                    <a href="/Safe/UserProfile/1" class="btn btn-outline-success btn-sm mb-2">Dovoljen ID: 1</a>
+                    <a href="/Safe/UserProfile/999" class="btn btn-outline-danger btn-sm">Blokiran ID: 999</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-6 mb-4">
+            <div class="card border-success h-100 shadow-sm">
+                <div class="card-header bg-success text-white fw-bold">4. Data Protection (Hashing)</div>
+                <div class="card-body text-center d-flex flex-column justify-content-center">
+                    <p class="small">Prikrivanje in šifriranje podatkov.</p>
+                    <a href="/Safe/ShowPasswords" class="btn btn-success btn-sm">Osveži in maskiraj</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-6 mb-4">
+            <div class="card border-success h-100 shadow-sm">
+                <div class="card-header bg-success text-white fw-bold">5. Error Management (Generic)</div>
+                <div class="card-body text-center d-flex flex-column justify-content-center">
+                    <p class="small">Uporabnik ne vidi sistemskih napak.</p>
+                    <a href="/Safe/CauseError" class="btn btn-success btn-sm">Sproži varno napako</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-6 mb-4">
+            <div class="card border-success h-100 shadow-sm">
+                <div class="card-header bg-success text-white fw-bold">6. Password Policy (Validation)</div>
+                <div class="card-body text-center">
+                    <p class="small text-muted">Zahteva vsaj 8 znakov.</p>
+                    <form asp-action="ChangePassword" method="post">
+                        <input type="text" name="newPassword" class="form-control mb-2" placeholder="Močno geslo" />
+                        <button type="submit" class="btn btn-success btn-sm w-100">Spremeni</button>
+                    </form>
+                    <small class="text-danger">@ViewBag.Error</small>
+                    <small class="text-success">@ViewBag.PassMsg</small>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-6 mb-4">
+            <div class="card border-success h-100 shadow-sm">
+                <div class="card-header bg-success text-white fw-bold">7. Path Validation (No ..)</div>
+                <div class="card-body text-center">
+                    <p class="small text-muted">Prepoved prehajanja map.</p>
+                    <form asp-controller="Safe" asp-action="ReadFile" method="get">
+                        <input type="text" name="filename" class="form-control mb-2" placeholder="Varno branje" />
+                        <button type="submit" class="btn btn-success btn-sm w-100">Preberi varno</button>
+                    </form>
+                    @if (ViewBag.FileError != null)
+                    {
+                        <small class="text-danger">@ViewBag.FileError</small>
+                    }
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-6 mb-4">
+            <div class="card border-success h-100 shadow-sm">
+                <div class="card-header bg-success text-white fw-bold">8. SSRF Protection (Allow-list)</div>
+                <div class="card-body text-center">
+                    <p class="small text-muted">Samo: <code>google.com</code></p>
+                    <form asp-action="Proxy" method="get">
+                        <input type="text" name="url" class="form-control mb-2" placeholder="URL naslov" />
+                        <button type="submit" class="btn btn-success btn-sm w-100">Naloži varno</button>
+                    </form>
+                    @if (ViewBag.ProxyError != null)
+                    {
+                        <small class="text-danger">@ViewBag.ProxyError</small>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <h3 class="text-success mt-4">Varna tabela uporabnikov</h3>
+    <table class="table table-sm table-bordered table-striped shadow-sm">
+        <thead class="table-success">
+            <tr><th>Uporabnik</th><th>Geslo (Maskirano)</th><th>Kartica</th></tr>
+        </thead>
+        <tbody>
+            @if (Model != null)
+            {
+                foreach (var user in Model)
+                {
+                    <tr><td>@user.Username</td><td>********</td><td>****-****-****-XXXX</td></tr>
+                }
+            }
+        </tbody>
+    </table>
+</div>

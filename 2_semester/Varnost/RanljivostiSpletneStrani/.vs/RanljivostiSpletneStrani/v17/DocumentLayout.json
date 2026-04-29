@@ -1,0 +1,208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Varnost\\RanljivostiSpletneStrani\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB6F88DA-201D-4512-9E2C-6F7585A2E9DB}|RanljivostiSpletneStrani\\RanljivostiSpletneStrani.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\varnost\\ranljivostispletnestrani\\ranljivostispletnestrani\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DB6F88DA-201D-4512-9E2C-6F7585A2E9DB}|RanljivostiSpletneStrani\\RanljivostiSpletneStrani.csproj|solutionrelative:ranljivostispletnestrani\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB6F88DA-201D-4512-9E2C-6F7585A2E9DB}|RanljivostiSpletneStrani\\RanljivostiSpletneStrani.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\varnost\\ranljivostispletnestrani\\ranljivostispletnestrani\\controllers\\safecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB6F88DA-201D-4512-9E2C-6F7585A2E9DB}|RanljivostiSpletneStrani\\RanljivostiSpletneStrani.csproj|solutionrelative:ranljivostispletnestrani\\controllers\\safecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB6F88DA-201D-4512-9E2C-6F7585A2E9DB}|RanljivostiSpletneStrani\\RanljivostiSpletneStrani.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\varnost\\ranljivostispletnestrani\\ranljivostispletnestrani\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB6F88DA-201D-4512-9E2C-6F7585A2E9DB}|RanljivostiSpletneStrani\\RanljivostiSpletneStrani.csproj|solutionrelative:ranljivostispletnestrani\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB6F88DA-201D-4512-9E2C-6F7585A2E9DB}|RanljivostiSpletneStrani\\RanljivostiSpletneStrani.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\varnost\\ranljivostispletnestrani\\ranljivostispletnestrani\\controllers\\vulnerablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB6F88DA-201D-4512-9E2C-6F7585A2E9DB}|RanljivostiSpletneStrani\\RanljivostiSpletneStrani.csproj|solutionrelative:ranljivostispletnestrani\\controllers\\vulnerablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB6F88DA-201D-4512-9E2C-6F7585A2E9DB}|RanljivostiSpletneStrani\\RanljivostiSpletneStrani.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\varnost\\ranljivostispletnestrani\\ranljivostispletnestrani\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DB6F88DA-201D-4512-9E2C-6F7585A2E9DB}|RanljivostiSpletneStrani\\RanljivostiSpletneStrani.csproj|solutionrelative:ranljivostispletnestrani\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB6F88DA-201D-4512-9E2C-6F7585A2E9DB}|RanljivostiSpletneStrani\\RanljivostiSpletneStrani.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\varnost\\ranljivostispletnestrani\\ranljivostispletnestrani\\views\\safe\\errorpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB6F88DA-201D-4512-9E2C-6F7585A2E9DB}|RanljivostiSpletneStrani\\RanljivostiSpletneStrani.csproj|solutionrelative:ranljivostispletnestrani\\views\\safe\\errorpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB6F88DA-201D-4512-9E2C-6F7585A2E9DB}|RanljivostiSpletneStrani\\RanljivostiSpletneStrani.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\varnost\\ranljivostispletnestrani\\ranljivostispletnestrani\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DB6F88DA-201D-4512-9E2C-6F7585A2E9DB}|RanljivostiSpletneStrani\\RanljivostiSpletneStrani.csproj|solutionrelative:ranljivostispletnestrani\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB6F88DA-201D-4512-9E2C-6F7585A2E9DB}|RanljivostiSpletneStrani\\RanljivostiSpletneStrani.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\varnost\\ranljivostispletnestrani\\ranljivostispletnestrani\\views\\safe\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB6F88DA-201D-4512-9E2C-6F7585A2E9DB}|RanljivostiSpletneStrani\\RanljivostiSpletneStrani.csproj|solutionrelative:ranljivostispletnestrani\\views\\safe\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB6F88DA-201D-4512-9E2C-6F7585A2E9DB}|RanljivostiSpletneStrani\\RanljivostiSpletneStrani.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\varnost\\ranljivostispletnestrani\\ranljivostispletnestrani\\views\\vulnerable\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB6F88DA-201D-4512-9E2C-6F7585A2E9DB}|RanljivostiSpletneStrani\\RanljivostiSpletneStrani.csproj|solutionrelative:ranljivostispletnestrani\\views\\vulnerable\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB6F88DA-201D-4512-9E2C-6F7585A2E9DB}|RanljivostiSpletneStrani\\RanljivostiSpletneStrani.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\varnost\\ranljivostispletnestrani\\ranljivostispletnestrani\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB6F88DA-201D-4512-9E2C-6F7585A2E9DB}|RanljivostiSpletneStrani\\RanljivostiSpletneStrani.csproj|solutionrelative:ranljivostispletnestrani\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB6F88DA-201D-4512-9E2C-6F7585A2E9DB}|RanljivostiSpletneStrani\\RanljivostiSpletneStrani.csproj|c:\\sola\\solaum\\2_letnik\\2_semester\\varnost\\ranljivostispletnestrani\\ranljivostispletnestrani\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB6F88DA-201D-4512-9E2C-6F7585A2E9DB}|RanljivostiSpletneStrani\\RanljivostiSpletneStrani.csproj|solutionrelative:ranljivostispletnestrani\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Varnost\\RanljivostiSpletneStrani\\RanljivostiSpletneStrani\\Views\\Safe\\Index.cshtml",
+              "RelativeDocumentMoniker": "RanljivostiSpletneStrani\\Views\\Safe\\Index.cshtml",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Varnost\\RanljivostiSpletneStrani\\RanljivostiSpletneStrani\\Views\\Safe\\Index.cshtml",
+              "RelativeToolTip": "RanljivostiSpletneStrani\\Views\\Safe\\Index.cshtml",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAA8AAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-26T16:50:05.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Varnost\\RanljivostiSpletneStrani\\RanljivostiSpletneStrani\\Views\\Vulnerable\\Index.cshtml",
+              "RelativeDocumentMoniker": "RanljivostiSpletneStrani\\Views\\Vulnerable\\Index.cshtml",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Varnost\\RanljivostiSpletneStrani\\RanljivostiSpletneStrani\\Views\\Vulnerable\\Index.cshtml",
+              "RelativeToolTip": "RanljivostiSpletneStrani\\Views\\Vulnerable\\Index.cshtml",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAGkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-26T16:49:34.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Varnost\\RanljivostiSpletneStrani\\RanljivostiSpletneStrani\\docker-compose.yml",
+              "RelativeDocumentMoniker": "RanljivostiSpletneStrani\\docker-compose.yml",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Varnost\\RanljivostiSpletneStrani\\RanljivostiSpletneStrani\\docker-compose.yml",
+              "RelativeToolTip": "RanljivostiSpletneStrani\\docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-04-27T12:41:05.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorPage.cshtml",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Varnost\\RanljivostiSpletneStrani\\RanljivostiSpletneStrani\\Views\\Safe\\ErrorPage.cshtml",
+              "RelativeDocumentMoniker": "RanljivostiSpletneStrani\\Views\\Safe\\ErrorPage.cshtml",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Varnost\\RanljivostiSpletneStrani\\RanljivostiSpletneStrani\\Views\\Safe\\ErrorPage.cshtml",
+              "RelativeToolTip": "RanljivostiSpletneStrani\\Views\\Safe\\ErrorPage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-28T11:30:30.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Varnost\\RanljivostiSpletneStrani\\RanljivostiSpletneStrani\\appsettings.json",
+              "RelativeDocumentMoniker": "RanljivostiSpletneStrani\\appsettings.json",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Varnost\\RanljivostiSpletneStrani\\RanljivostiSpletneStrani\\appsettings.json",
+              "RelativeToolTip": "RanljivostiSpletneStrani\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-28T11:41:42.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VulnerableController.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Varnost\\RanljivostiSpletneStrani\\RanljivostiSpletneStrani\\Controllers\\VulnerableController.cs",
+              "RelativeDocumentMoniker": "RanljivostiSpletneStrani\\Controllers\\VulnerableController.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Varnost\\RanljivostiSpletneStrani\\RanljivostiSpletneStrani\\Controllers\\VulnerableController.cs",
+              "RelativeToolTip": "RanljivostiSpletneStrani\\Controllers\\VulnerableController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T16:30:20.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Varnost\\RanljivostiSpletneStrani\\RanljivostiSpletneStrani\\Dockerfile",
+              "RelativeDocumentMoniker": "RanljivostiSpletneStrani\\Dockerfile",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Varnost\\RanljivostiSpletneStrani\\RanljivostiSpletneStrani\\Dockerfile",
+              "RelativeToolTip": "RanljivostiSpletneStrani\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-27T12:39:58.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SafeController.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Varnost\\RanljivostiSpletneStrani\\RanljivostiSpletneStrani\\Controllers\\SafeController.cs",
+              "RelativeDocumentMoniker": "RanljivostiSpletneStrani\\Controllers\\SafeController.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Varnost\\RanljivostiSpletneStrani\\RanljivostiSpletneStrani\\Controllers\\SafeController.cs",
+              "RelativeToolTip": "RanljivostiSpletneStrani\\Controllers\\SafeController.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAYwI0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T16:30:33.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Varnost\\RanljivostiSpletneStrani\\RanljivostiSpletneStrani\\Program.cs",
+              "RelativeDocumentMoniker": "RanljivostiSpletneStrani\\Program.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Varnost\\RanljivostiSpletneStrani\\RanljivostiSpletneStrani\\Program.cs",
+              "RelativeToolTip": "RanljivostiSpletneStrani\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T16:22:41.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Varnost\\RanljivostiSpletneStrani\\RanljivostiSpletneStrani\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "RanljivostiSpletneStrani\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Varnost\\RanljivostiSpletneStrani\\RanljivostiSpletneStrani\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "RanljivostiSpletneStrani\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T16:21:44.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Varnost\\RanljivostiSpletneStrani\\RanljivostiSpletneStrani\\Models\\User.cs",
+              "RelativeDocumentMoniker": "RanljivostiSpletneStrani\\Models\\User.cs",
+              "ToolTip": "C:\\sola\\solaUM\\2_letnik\\2_semester\\Varnost\\RanljivostiSpletneStrani\\RanljivostiSpletneStrani\\Models\\User.cs",
+              "RelativeToolTip": "RanljivostiSpletneStrani\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T16:19:30.149Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

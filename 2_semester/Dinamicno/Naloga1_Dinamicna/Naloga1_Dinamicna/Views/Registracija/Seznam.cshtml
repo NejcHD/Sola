@@ -1,0 +1,30 @@
+﻿@model IEnumerable<Naloga1_Dinamicna.Models.Uporabnik>
+
+<div class="container mt-4">
+    <h2>Seznam uporabnikov v bazi</h2>
+    <table class="table table-hover border">
+        <thead class="table-primary">
+            <tr>
+                <th>Ime</th>
+                <th>Priimek</th>
+                <th>E-naslov</th>
+                <th>Akcije</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var u in Model)
+            {
+                <tr>
+                    <td>@u.Ime</td>
+                    <td>@u.Priimek</td>
+                    <td>@u.Email</td>
+                    <td>
+                        <a asp-action="Uredi" asp-route-id="@u.Id" class="btn btn-warning btn-sm">Uredi</a>
+                        <a asp-action="Izbrisi" asp-route-id="@u.Id" class="btn btn-danger btn-sm" onclick="return confirm('Izbrišem?')">Briši</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <a asp-action="Index" class="btn btn-success">Dodaj novega</a>
+</div>

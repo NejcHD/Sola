@@ -1,0 +1,12 @@
+version: '3.4'
+
+services:
+  spletna-stran:
+    image: ranljivosti-app
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./baza.db:/app/baza.db

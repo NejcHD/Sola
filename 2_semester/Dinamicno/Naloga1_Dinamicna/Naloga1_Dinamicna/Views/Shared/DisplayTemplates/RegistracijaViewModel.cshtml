@@ -1,0 +1,25 @@
+﻿@model object
+   
+@{
+    // Pridobimo lastnosti, ki jih želimo urejati (tiste, ki niso skrite)     Ta metoda je pogled na zapisane podatke
+    var properties = ViewData.ModelMetadata.Properties.Where(p => p.ShowForEdit && !p.IsComplexType);
+}
+
+<div class="container border p-4 rounded bg-white shadow-sm">
+    <h4 class="mb-4 text-primary border-bottom pb-2">Vnosni obrazec</h4>
+
+    @foreach (var prop in properties)
+    {
+        <div class="mb-3 row align-items-center">
+            <label class="col-sm-4 col-form-label fw-bold text-secondary text-end">
+                @(prop.DisplayName ?? prop.PropertyName):
+            </label>
+
+            <div class="col-sm-8">
+                @Html.Editor(prop.PropertyName)
+
+                @Html.ValidationMessage(prop.PropertyName, "", new { @class = "text-danger small" })
+            </div>
+        </div>
+    }
+</div>

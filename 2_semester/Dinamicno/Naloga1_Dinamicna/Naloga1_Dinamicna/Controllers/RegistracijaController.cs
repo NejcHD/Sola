@@ -1,126 +1,96 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Naloga1_Dinamicna.Models;
-using Newtonsoft.Json; // Če nimaš te knjižnice, jo bomo dodali kasneje
+using Naloga1_Dinamicna.Data; // To si verjetno pozabil dodati!
+using Newtonsoft.Json;
+using System.Linq;
 
 namespace Naloga1_Dinamicna.Controllers
 {
     public class RegistracijaController : Controller
     {
-        // 1. KORAK: Prikaz obrazca (GET)
-        [HttpGet]
-        public IActionResult Korak1()
+        // 1. POVEZAVA DO BAZE
+        private readonly ApplicationDbContext _context;
+
+        // 2. KONSTRUKTOR (mora biti znotraj razreda!)
+        public RegistracijaController(ApplicationDbContext context)
         {
-            return View(new RegistracijaViewModel());   // pokaze model za vpisat podatke
+            _context = context;
         }
 
-        // 1. KORAK: Sprejem podatkov in preusmeritev (POST)
+        // 3. SEZNAM VSEH (Tukaj prebereš bazo)
+        public IActionResult Seznam()
+        {
+            var vsi = _context.Uporabniki.ToList();
+            return View(vsi);
+        }
+
+        [HttpGet]
+        public IActionResult Index()
+        {
+            return View(new RegistracijaViewModel());
+        }
+
         [HttpPost]
-        public IActionResult Korak1(RegistracijaViewModel model)
+        public IActionResult Index(RegistracijaViewModel model)
         {
+            if (ModelState.IsValid)
+            {
+                // SHRANJEVANJE V BAZO
+                _context.Uporabniki.Add(model);
+                _context.SaveChanges();
 
-            TempData["RegistracijaPodatki"] = JsonConvert.SerializeObject(model);  //shrani pdoatke v model
-            return RedirectToAction("Korak2");
-        }
-
-
-
-
-
-        // 2. KORAK: Prikaz obrazca za naslov (GET)
-        [HttpGet]
-        public IActionResult Korak2()
-        {
-            var podatkiString = TempData["RegistracijaPodatki"] as string;                 // prebere shranjen podatke iz tempdata
-            if (string.IsNullOrEmpty(podatkiString)) return RedirectToAction("Korak1");
-
-            TempData.Keep("RegistracijaPodatki"); // preberemo ter ukazemo da ostane ker cene se zbrise
-
-            var model = JsonConvert.DeserializeObject<RegistracijaViewModel>(podatkiString);  // pretvori iz json v c# model za kasneje
+                return RedirectToAction("Seznam");
+            }
             return View(model);
         }
 
-        // 2. KORAK: Sprejem naslova (POST)
-        [HttpPost]
-        public IActionResult Korak2(RegistracijaViewModel model)
+        // UREJANJE - GET
+        public IActionResult Uredi(int id)
         {
-            var stariPodatkiString = TempData["RegistracijaPodatki"] as string;
-            var stariPodatki = JsonConvert.DeserializeObject<RegistracijaViewModel>(stariPodatkiString);  // pretvori v model
+            var uporabnik = _context.Uporabniki.Find(id);
+            if (uporabnik == null) return NotFound();
 
-            // Dodamo nove podatke k starim
-            stariPodatki.Naslov = model.Naslov;
-            stariPodatki.PostnaStevilka = model.PostnaStevilka;
-            stariPodatki.Posta = model.Posta;
-            stariPodatki.Drzava = model.Drzava;
-            // pripise starim podatkom nove
-
-            TempData["RegistracijaPodatki"] = JsonConvert.SerializeObject(stariPodatki);  // shrani spremenjeno v json
-            return RedirectToAction("Korak3");
-
-
-        }
-
-
-
-
-
-
-
-
-        // 3. KORAK: Prikaz obrazca za Email in Geslo (GET)
-        [HttpGet]
-        public IActionResult Korak3()
-        {
-            var podatkiString = TempData["RegistracijaPodatki"] as string;
-            if (string.IsNullOrEmpty(podatkiString)) return RedirectToAction("Korak1");
-
-            TempData.Keep("RegistracijaPodatki");
-            return View(new RegistracijaViewModel()); // Lahko pošlješ tudi prazen model
-        }
-
-        // 3. KORAK: Sprejem Emaila in Gesla (POST)
-        [HttpPost]
-        public IActionResult Korak3(RegistracijaViewModel model)
-        {
-            var stariPodatkiString = TempData["RegistracijaPodatki"] as string;
-            var stariPodatki = JsonConvert.DeserializeObject<RegistracijaViewModel>(stariPodatkiString);
-
-
-            if (model.Geslo != model.PotrditevGesla)
+            var vm = new RegistracijaViewModel
             {
-                // Ustvarimo ročno napako, ki se bo izpisala v View-ju
-                ViewBag.NapakaGeslo = "Gesli se ne ujemata!";
-
-                // Obdržimo kovček za naslednji poskus
-                TempData.Keep("RegistracijaPodatki");
-
-                return View(model); // Ostaneš na strani Korak3
-            }
-
-
-            // Dodamo email in geslo
-            stariPodatki.Email = model.Email;
-            stariPodatki.Geslo = model.Geslo;
-            stariPodatki.PotrditevGesla = model.PotrditevGesla;
-
-
-            TempData["RegistracijaPodatki"] = JsonConvert.SerializeObject(stariPodatki);   // isto kot 2 korak postopek
-            return RedirectToAction("Potrditev");
+                Id = uporabnik.Id,
+                Ime = uporabnik.Ime,
+                Priimek = uporabnik.Priimek,
+                Email = uporabnik.Email,
+                Starost = uporabnik.Starost,
+                Emso = uporabnik.Emso,
+                Naslov = uporabnik.Naslov,
+                Posta = uporabnik.Posta,
+                PostnaStevilka = uporabnik.PostnaStevilka,
+                Drzava = uporabnik.Drzava
+            };
+            return View(vm);
         }
 
-
-
-
-
-
-        // 4. KORAK: Končni izpis (GET)
-        [HttpGet]
-        public IActionResult Potrditev()
+        // UREJANJE - POST
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult Uredi(RegistracijaViewModel model)
         {
-            var podatkiString = TempData["RegistracijaPodatki"] as string;
-            if (string.IsNullOrEmpty(podatkiString)) return RedirectToAction("Korak1");
+            if (ModelState.IsValid)
+            {
+                _context.Uporabniki.Update(model);
+                _context.SaveChanges();
+                return RedirectToAction("Seznam");
+            }
+            return View(model);
+        }
 
-            var končniModel = JsonConvert.DeserializeObject<RegistracijaViewModel>(podatkiString);
-            return View(končniModel);
+        // BRISANJE
+        public IActionResult Izbrisi(int id)
+        {
+            var u = _context.Uporabniki.Find(id);
+            if (u != null)
+            {
+                _context.Uporabniki.Remove(u);
+                _context.SaveChanges();
+            }
+            return RedirectToAction("Seznam");
         }
     }
 }

@@ -1,0 +1,24 @@
+﻿@model DateTime?
+
+@{
+    // Formatiramo datum za prikaz v vnosnem polju
+    string value = "";
+    if (Model.HasValue)
+    {
+        value = Model.Value.ToString("dd.MM.yyyy");   // izpis slovenski format vedno
+    }
+}
+
+
+<div class="datepicker-container my-2">
+    <label class="form-label">@ViewData.ModelMetadata.DisplayName</label>  <!-- ispise ime spremenljivke -->
+
+    <input type="text"
+           name="@ViewData.TemplateInfo.HtmlFieldPrefix"
+           value="@value"
+           class="form-control datepicker-control"
+           placeholder="Klikni za izbiro datuma..." />
+
+    <span asp-validation-for="@Model" class="text-danger"></span>
+
+</div>
